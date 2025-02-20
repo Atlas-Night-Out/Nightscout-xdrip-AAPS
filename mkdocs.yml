@@ -1,5 +1,5 @@
 site_name: Nightscout - Xdrip - AndroidAPS
-site_url: https://sitename.example.com
+site_url: https://atlas-night-out.github.io/Nightscout-xdrip-AAPS
 
 theme:
   name: material
@@ -8,6 +8,7 @@ theme:
     code: Red Hat Mono
   logo: assets/xDrip+logo.png
   favicon: assets/favicon.ico
+
   features:
     - navigation.footer
   palette:
@@ -49,6 +50,27 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+nav:
+- Home: 'index.md'
+- Dexcom :
+        - 'Dexcom G6/One': 'user-guide/Dexcom/Dexcom G6_One.md'
+        - 'Dexcom xDrip Recommended Settings': 'user-guide/Dexcom/xDrip-Advised-Settings - G6, G7,Dexcom One,One+.md'
+        - 'Starting a G7 or One+': 'user-guide/Dexcom/Starting a G7 or One.md'
+        
+
+- Helpful Things : 
+    - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
+    - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
+    - 'About': 'about.md'
+
+- Diagram-Examples :
+    - 'Content Tabs': 'user-guide/Diagram-Examples/content-tabs.md'
+    - 'Flowchart': 'user-guide/Diagram-Examples/flowchart example.md'
+    - 'Code-Examples': 'user-guide/Diagram-Examples/code-examples.md'
+    - 'Admonitions': 'user-guide/Diagram-Examples/admonitions.md'
+    - 'Diagram-Examples': 'user-guide/Diagram-Examples/diagram-examples.md'
+
+      
 
 extra:
   social:
@@ -59,4 +81,8 @@ extra:
   
   copyright: Copyright &copy; 2024 D.Galloway
   generator: false
+
+
+
+  
   
