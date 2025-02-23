@@ -11,6 +11,8 @@ theme:
 
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
   palette:
     # Dark Mode
     - scheme: slate
@@ -61,7 +63,7 @@ nav:
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
-    - 'About': 'about.md'
+    - 'About21': 'user-guide/Helpful/about.md'
 
 - Diagram-Examples :
     - 'Content Tabs': 'user-guide/Diagram-Examples/content-tabs.md'

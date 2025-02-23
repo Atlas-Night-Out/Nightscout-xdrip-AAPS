@@ -1,21 +1,25 @@
 
-
-
-
-<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6478f9b1-f65e-4028-929f-e0aa2416a5aa" title="Dexcom One+"/></a>
-
-
-### **There are 4 Elements to get started**
+## There are 4 Elements to getting started with a Dexcom G6/One:
 ## Setup
-1. Sensor Applicator
- <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/cb8931b9-d71a-468f-b2de-b861aa04f798" title="Sensor Applicator"/></a>	
-2.  Sensor
-<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e1682efa-b4e4-4874-93fe-1caa106f24b9" title="Sensor"/></a>	
-3.  Transmitter
-<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/58246840-1489-4333-9143-cad8871ada7e" title="Transmitter"/></a>
-4.  A Display
 
-<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7563df5f-bd0e-4fb2-bdc7-e3d2c33a7b0e" title="Display"/></a>
+=== "Sensor Applicator"
+
+    <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" title="Sensor Applicator"/></a>
+
+=== "Sensor"
+
+    <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e1682efa-b4e4-4874-93fe-1caa106f24b9" title="Sensor"/></a>
+    
+
+=== "Transmitter "
+
+    <img width="300" height="Auto" border="0" align="left"  src="https://github.com/user-attachments/assets/be60b7f9-58bb-4a4f-8775-2dd0c851a6fb" title="Transmitter"/><center></a><img width="260" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f331bf48-3ad1-456b-8484-503c37d780a1" title="Transmitter Serial "/></center></a>
+
+    ### Code Blocks in Content Tabs
+
+=== "Display"
+
+    <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/962a2daf-fb71-4133-b434-b97f0ce77cc0" title="Displays"/></a>
 
 ## Dexcom Intro Userguide
 
@@ -27,9 +31,10 @@
 
 ## Dexcom Insertion Video
 
-<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
-</iframe>
+[![image.png](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s)
 
+[go](http://stackoverflow.com){:target="_blank"}
+[![go](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s){:target="_blank"}
 
 ## If Using A Receiver
 
@@ -39,15 +44,16 @@ Then After the 2 hour Warm up I would then add Sensor code and add the tansmitte
 <br>
 <iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/c5mjePmJVS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+## Some of my Tips!
 ## Tips
 I also do not use Alcohol wipes to wipe my skin, I prefer to use one of three types of spray's, one is called Cavilon,the other Sorbaderm or Medi Derma-s all 28ml spray with some kitchen roll.<br> 
 This helps protect my skin but also helps keep the sensors on longer. I spray it on and allow 5 minutes to dry before applying the Sensor Applicator.<br><br>
 
 ### Tips 2
-When it's time comes to removing the Sensor after 10 days I use a spray called Sensi Care, sting free adhesive releaser. Whick makes it very easy to remove.
+When it's time comes to removing the Sensor after 10 days I use a spray called Esenta Sting Free Adhesive Remover Spray (50ml). Which makes it very easy to remove.
 
 ### Tips 3
-And if at any point you feel you are not getting correct readings always do a finger prick. I find it can take a few hours for the sensor to settle in so I will finger prick until I can trust the readings.<br>
+And if at any point you feel you are not getting correct readings always do a finger prick. I find it can take a few hours for the sensor to settle in so I will finger prick until I can trust the readings. Drinking Water also helps<br>
 
 
 ## Why Sensor Glucose Won't Always Match Your Blood Glucose<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/d9UzbC7pf4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -109,6 +115,10 @@ Adding a image with link
 Adding Video
 
 <iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
+</iframe>
 
 
 Adding an embeded video

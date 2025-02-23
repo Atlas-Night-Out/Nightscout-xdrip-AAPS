@@ -6,7 +6,7 @@ This is some examples of content tabs.
 
 === "Sensor Applicator"
 
-    <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/cb8931b9-d71a-468f-b2de-b861aa04f798" title="Sensor Applicator"/></a>
+    <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" title="Sensor Applicator"/></a>
 
 === "Unordered list"
 
