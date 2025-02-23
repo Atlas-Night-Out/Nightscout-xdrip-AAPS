@@ -31,10 +31,11 @@
 
 ## Dexcom Insertion Video
 
-[![image.png](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s)
+<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
+</iframe>
+[![image.png](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s title="YouTube video player")
 
-[go](http://stackoverflow.com){:target="_blank"}
-[![go](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s){:target="_blank"}
+
 
 ## If Using A Receiver
 
@@ -106,13 +107,13 @@ adding 	Yellow Hightligher!!!!!!!!	with bold too
 
 
 
-Adding a image with link
+Adding a image with link:
 <a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
 </a><br>
 
 
-Adding Video
+Adding Video:
 
 <iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -121,8 +122,15 @@ Adding Video
 </iframe>
 
 
-Adding an embeded video
+Adding an embeded video:
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Addiing external Video:
+[go](http://stackoverflow.com){:target="_blank"}
+
+[![go](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s){:target="_blank"}
 
 
 Note
