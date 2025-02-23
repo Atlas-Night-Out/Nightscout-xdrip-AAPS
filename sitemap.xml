@@ -1,28 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sitename.example.com/</loc>
-         <lastmod>2025-02-20</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/</loc>
+         <lastmod>2025-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sitename.example.com/admonitions/</loc>
-         <lastmod>2025-02-20</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dexcom%20%26%20xDrip%2B%20Suggested%20Settings/</loc>
+         <lastmod>2025-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sitename.example.com/code-examples/</loc>
-         <lastmod>2025-02-20</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dexcom%20G6_One/</loc>
+         <lastmod>2025-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sitename.example.com/content-tabs/</loc>
-         <lastmod>2025-02-20</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Starting%20a%20G7%20or%20One/</loc>
+         <lastmod>2025-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sitename.example.com/diagram-examples/</loc>
-         <lastmod>2025-02-20</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/content-tabs/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/xDrip-Advised-Settings%20-%20G6%2C%20G7%2CDexcom%20One%2COne%2B/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/admonitions/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/code-examples/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/content-tabs/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/diagram-examples/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/flowchart%20example/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Helpful/Deleting-your-cgm-remote-monitor/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Helpful/Helplinks/</loc>
+         <lastmod>2025-02-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Helpful/about/</loc>
+         <lastmod>2025-02-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
