@@ -33,7 +33,7 @@
 
 <iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
 </iframe>
-[![image.png](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s title="YouTube video player")
+
 
 
 
@@ -127,10 +127,14 @@ Adding an embeded video:
 
 
 
-Addiing external Video:
+Addiing with to external website:   these don't work yet I think i need rugby  kramdown
 [go](http://stackoverflow.com){:target="_blank"}
 
 [![go](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s){:target="_blank"}
+
+
+[![image.png](https://github.com/user-attachments/assets/372c8075-6b17-402b-a15d-11010baa3306)](https://www.youtube.com/watch?v=1MRU6_GTEtg&t=1s title="YouTube video player")
+
 
 
 Note
