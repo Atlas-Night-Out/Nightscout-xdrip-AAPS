@@ -14,21 +14,22 @@ docs made by D.Galloway 2019- 2021-->
 I have now managed to make a little update to installing xdrip , but not much changed really apart from settings and the way we connect to CGM as also got more confusing.
 
 
-!!! note " ututututu"
+!!! note "Info"
 
 
-This is the link to the Screencast that I'm seeing is any better to you all for doing videos due to links working within the video. I will also add it to Utube but the links will not work from there so it be better to use this Screencast link! 
+This is the link to the Screencast that I have setup to see if it will be better to you all for doing videos due to it being able to have links working within the video. I will also add it to Utube but the links will not work from there so it be better to use this Screencast link! I'm Also hoping Milos will liek this too and help me fit in a little bit better to getting the right informtion in on this site too. 
 
 # **Xdrip  Install in 2025** <br> On my Screencast
 
 <a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Xdrip  Install in 2025">Xdrip  Install in 2025</a> </center>
 
+<iframe scrolling='no' frameborder='0' style='width: 1920px; height: 1080px; border:0;' src='https://app.screencast.com/YxuBW3bErdql4/e' allowfullscreen></iframe>
 
 But for now, it’s still a good help for you to set up with xdrip+ onto your mobile. Just turn off the music if it’s not to your tastes :-) 
 You do not need to have Nightscout installed for xdrip+ to work as mentioned in the video!
 You can get your reading from your CGM direct from within xdrip+.
 
-You also do not need to install Nightscout to use Xdrip+ I made a mistake and did not relize unstil after the xdrip can run stright from your sensor! 
+You also also do not need to install Nightscout to use Xdrip+ I made a mistake and did not relize until after when I relized I could run xdrip stright from your sensor! 
 <br>
 
 ### **Install Xdrip+** 
@@ -49,15 +50,15 @@ APPS/xDrip+/Battery<br>
 
 <center><img src="/xdrip-Nightscout-AAPS/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/xdrip-Nightscout-AAPS/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/xdrip-Nightscout-AAPS/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/xdrip-Nightscout-AAPS/img/xdrip/Battery.jpg" alt="alt text" width="300" height="auto"></center><br>
 
-<center> <span style="background-color: #FFFF00">**And select Battery Unrestricted.**</span><br><br>
+<center> <span style="background-color:rgb(88, 121, 72)">**(And select Battery Unrestricted)**</span><br><br>
 
 <img src="/xdrip-Nightscout-AAPS/img/xdrip/Battery_unrestrcted.jpg" alt="alt text" width="300" height="auto"></center><br>
 
 ## <center>**Making sure xDrip+ will not be put in to sleep mode and enabled permissions**</center><br>
 Make sure these settings are checked, but still make sure they are exactly like shown below. 
 Every time your Mobile updates or you re-install, check again: disable and enable checkboxes that should be enabled to enforce the settings.<br>
-Go to <center><span style="background-color: #FFFF00">**Other misc options**</span><br>
-<span style="background-color: #FFFF00">**/ Settings / Less Common Settings / Other misc options**</span></center><br><br>
+Go to <center><span style="background-color:rgb(88, 121, 72)">**(Other misc options)**</span><br>
+<span style="background-color:rgb(88, 121, 72)">**/ Settings / Less Common Settings / Other misc options**</span></center><br><br>
 
 And make sure these are selected!<br>
 <center><img src="/xdrip-Nightscout-AAPS/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br><br>
@@ -77,7 +78,7 @@ See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) **or**  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) **or** [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
 
