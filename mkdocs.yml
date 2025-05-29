@@ -13,6 +13,7 @@ theme:
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.top
   palette:
     # Dark Mode
     - scheme: slate
@@ -58,6 +59,11 @@ nav:
         - 'Dexcom G6/One': 'user-guide/Dexcom/Dexcom G6_One.md'
         - 'Dexcom xDrip Recommended Settings': 'user-guide/Dexcom/xDrip-Advised-Settings - G6, G7,Dexcom One,One+.md'
         - 'Starting a G7 or One+': 'user-guide/Dexcom/Starting a G7 or One.md'
+
+- Xdrip :
+    - 'Xdrip+ Intro': 'user-guide/xdrip/xdrip - Intro.md'
+    - 'Download': 'user-guide/xdrip/xdrip - Download.md'
+    - 'Install': 'user-guide/xdrip/xdrip - install.md'        
         
 
 - Helpful Things : 
@@ -71,6 +77,8 @@ nav:
     - 'Code-Examples': 'user-guide/Diagram-Examples/code-examples.md'
     - 'Admonitions': 'user-guide/Diagram-Examples/admonitions.md'
     - 'Diagram-Examples': 'user-guide/Diagram-Examples/diagram-examples.md'
+
+    
 
       
 

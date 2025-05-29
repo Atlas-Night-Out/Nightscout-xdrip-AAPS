@@ -24,7 +24,7 @@
 ## Dexcom Intro Userguide
 
 * Prepare for sensor insertion <br>
-* Take off Labels <span style="background-color:rgb(53, 114, 36)">**(Do not forget to keep Lebels safe or take a photo of your Sensor Code)**</span><br> you will need the code later.<br>
+* Take off Labels <span style="background-color:rgb(88, 121, 72)">**(Do not forget to keep Lebels safe or take a photo of your Sensor Code)**</span><br> you will need the code later.<br>
 <centre><img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/2e7cf0c0-05bb-46d2-be05-f97a543f767d" title="Sensor Code"/></a></centre><br>
 * Insert a sensor <br>
 * Attach transmitter to transmitter holder <br>
