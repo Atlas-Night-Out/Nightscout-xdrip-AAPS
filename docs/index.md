@@ -1,22 +1,36 @@
-# Welcome to MkDocs
+# Welcome to TheDiabeticway Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full Web site content visit <a href="https://www.thediabeticway.co.uk/index.php/en/" target="_blank" title="The Diabetic Way">The Diabetic Way</a>
 
-## Commands
+## Documents: - we will be covering
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 1 - Dexcom: 
+<a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dexcom%20G6_One/">Dexcom</a>
+* 2 - xdrip:
+ <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Intro/"> xdrip</a> 
+* 3 - Nightscout Setup
+: <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/Nightscout/Setting_up_Github_Account_part1/">Nightscout Setup</a> 
+* 4 - CGM Watches Setups
+: <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/watches/Watches/">CGM Watches Setups</a>
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-I do not Drink <br>
+<br><br>
+A little About Me!
+I do not Drink<br>
 :beer:<br>
-or<br> :material-cigar-off: <br>
-        I like to try to go out for a quite :material-bicycle: :man_biking_tone3: when the weather is good :material-weather-sunny: is good, and there is no wind.
+or Smoke :material-cigar-off: <br><br>
+        I like to try to go out for a quite :material-bicycle: :man_biking_tone3: when the weather is good :material-weather-sunny:, and there is littlw wind to help on all of my Type 1 issues.<br><br><br>
+
+        
+
+# Disclaimer And Informing
+1.	All information, thought, and code described here are intended for informational and educational purposes only. Use xDrip+ Nightscout & Android APS at your own risk, and do not use the information or code to make medical decisions.<br>
+
+2.	Use of code from github.com is without warranty or formal support of any kind. Please review the repository’s LICENSE for details.<br>
+
+3.	All product and company names, trademarks, service marks, registered trademarks, and registered service marks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
+Please note: these projects have no connection with and are not endorsed by: Dexcom, Ascenia, Abbott Laboratories, Companion Medical, Dexcom, Lifescan, Medtrum, Pendiq, Roche, Medtronic, Senseonics, or any Watch make or model or any other Pump or pod manufacturers or companies.
+<br><br>
+<br><br>
+
+<br><br>
+
