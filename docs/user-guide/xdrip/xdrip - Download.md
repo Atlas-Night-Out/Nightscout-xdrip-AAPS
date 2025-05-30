@@ -16,7 +16,10 @@ From a "mobile" You will need to go to a web browser on your mobile and
  Download the latest version of Xdrip <a href="https://jamorham.github.io/#xdrip-plus" target="_blank" title="Mobile xdrip latest version">from Here</a> <br><br>
 
 ## Mobile download
-[<img src="https://github.com/user-attachments/assets/77c6a0b4-d813-448e-80fb-fb23b50a30f3">](https://jamorham.github.io/#xdrip-plus)
+<a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/77c6a0b4-d813-448e-80fb-fb23b50a30f3" title="PCMobile Download"/>
+</a><br>
+
 
 No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings first!<br> 
 
