@@ -24,15 +24,19 @@
 **We Need an Agreeable NHS!**
 
 
-* You Can get a Dexcom One+ by requesting one from your GP if within the UK and you can get a Dexcom One Receiver from the <a href="https://www.dexcom.com/en-GB/dexcom-one-plus-cgm-system" target="_blank" span style="background-color: #60C447 "title="Dexcom Web Site">**Dexcom Web Site**</a>
+* You Can get a Dexcom One+ by requesting one from your GP if within the UK and you can get a Dexcom One Receiver from the Dexcom Web Site: <a href="https://www.dexcom.com/en-GB/dexcom-one-plus-cgm-system" target="_blank" title="Dexcom Web Site"> Dexcom Web Site</a>
 
 ### Create connectivity to G7 or One+
 * If you have the Dexcom App already installed (or any other App collecting that’s using your G7 or One+) uninstall it. Having a Dexcom receiver is OK to use, and you don’t need to disable it.
+<br>
+
 * Go to Android Settings −> Connected devices.
 Forget all devices whose names are **DXCM** or **DX02** where could be any two characters.
-* It's also best to update to version **xDrip-plus-20240601-a6fdfc4 xDrip+** to the **Nightly build 1st Jun 2024** from when I tested this. Or try the latest version. <br> See System Status for xdrip+ version you are on and update it if needed too.
-<a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" title="First create a user account by going to">To Update</a>
-<a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" span style="background-color: #60C447 "title="To Update">**To Update**</a>
+* It's also best to update to version **xDrip-plus-20240601-a6fdfc4 xDrip+** to the **Nightly build 1st Jun 2024** from when I tested this. Or try the latest version. 
+<br> See System Status for xdrip+ version you are on and update it if needed too.
+<a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" title="To Update">To Update</a>
+
+
 * Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor.	<br> Scan the code below with your mobile, it's also a good idea to put your mobile in the horizontal position, , you may need to move the phone back a little bit from the QR code if scanning from a large-screen computer and wait for a pop up to show up.<br><br>
 <center> <img width="620" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/e10b566f-5799-4474-a537-19567dba14f4" title="Sensor code"/></a></center><br><br>
 
@@ -60,7 +64,16 @@ If you see “Mismatch” on the status page, it signifies either your pairing c
 <img width="400" height="400" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
 
 
+<br>
 
+<a href="https://maundyrelief.org.uk/" target="_blank">
+ <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
+
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+ <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</center>
 
 
 

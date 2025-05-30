@@ -14,15 +14,15 @@ Children With Diabetes: <a href="https://www.childrenwithdiabetesuk.org/" target
 
 ## **Web Sites**
 
-JDRF - UK: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF - UK">JDRF - UK</a><br>
+ Breakthrough T1D - JDRF - UK: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF - UK">JDRF - UK</a><br>
 
-JDRF - Netherlands: <a href="https://www.jdrf.nl/" target="_blank" title="JDRF - Netherlands - UK">JDRF - Netherlands</a><br>
+ Breakthrough T1D - JDRF - Netherlands: <a href="https://www.jdrf.nl/" target="_blank" title="JDRF - Netherlands - UK">JDRF - Netherlands</a><br>
 
-JDRF - International: <a href="https://www.jdrf.org/" target="_blank" title="JDRF - International">JDRF - International</a><br>
+ Breakthrough T1D - JDRF - International: <a href="https://www.jdrf.org/" target="_blank" title="JDRF - International">JDRF - International</a><br>
 
-JDRF - Australia: <a href="https://jdrf.org.au/" target="_blank" title="JDRF - Australia">JDRF - Australia</a><br>
+ Breakthrough T1D - JDRF - Australia: <a href="https://jdrf.org.au/" target="_blank" title="JDRF - Australia">JDRF - Australia</a><br>
 
-JDRF - Israel: <a href="https://jdrf.org.il/" target="_blank" title="JDRF - Israel">JDRF - Israel</a><br>
+ Breakthrough T1D - JDRF - Israel: <a href="https://jdrf.org.il/" target="_blank" title="JDRF - Israel">JDRF - Israel</a><br>
 
 TidePool: <a href="https://www.tidepool.org/" target="_blank" title="TidePool">TidePool</a> (Your gateway to understanding your Diabetes data)<br>
 
@@ -80,6 +80,12 @@ Carb & Cals: <a href="www.carbandcals.com" target="_blank" title="Carb & Cals">C
 
 ## **Diabetes Watches**<br>
 
+Galaxy Wearable:<a href="https://play.google.com/store/apps/details?id=com.samsung.android.app.watchmanager" target="_blank"> Galaxy Wearable</a><br>
+
+Diabetic Masked Man: <a href="https://www.facebook.com/groups/1291213948714988" target="_blank"> Diabetic Masked Man</a><br>
+
+GlucoDataHandler: <a href="https://play.google.com/store/apps/details?id=de.michelinside.glucodatahandler&pli=1" target="_blank"> GlucoDataHandler</a><br>
+
 Pebble Wiki: <a href="https://github.com/pebble-dev/wiki/wiki" target="_blank" title="pebble Wiki">Pebble Wiki</a><br>
 
 Rebble (Pebble) <a href="https://rebble.io/" target="_blank">rebble.io.</a><br>
@@ -89,7 +95,7 @@ Pebble app for Android <a href="https://www.apkmirror.com/apk/pebble-technology-
 
 Pebble Nightscout Watch Faces <a href="https://apps.rebble.io/en_US/search/watchfaces/1?query=nightscout" target="_blank">Nightscout watchfaces</a><br>
 
-Pebble with Loop <a href="https://loopkit.github.io/loopdocs/nightscout/pebble/" target="_blank">Pebble Watchface,</a> for <a href="https://androidaps.readthedocs.io/en/latest/Configuration/Watchfaces.html#pebble" target="_blank">AndroidAPS</a> and <a href="https://github.com/mddub/pancreabble" target="_blank">FreeAPS</a>.
+Pebble with Loop <a href="https://loopkit.github.io/loopdocs/nightscout/ns-crossref/?h=pebble#pebble-watch" target="_blank">Pebble Watchface,</a> for <a href="https://androidaps.readthedocs.io/en/latest/Getting-Started/Watches.html#pebble-watch" target="_blank">AndroidAPS</a> and <a href="https://github.com/mddub/pancreabble" target="_blank">FreeAPS</a>.
 
 Fitbit Versa 2 Users Group: <a href="https://www.facebook.com/groups/fitbitversa2" target="_blank" title="Fitbit Versa 2 Users Group">Fitbit Versa 2 Users Group</a><br>
 
@@ -97,29 +103,31 @@ Fitbit Versa 2 Users Group: <a href="https://www.facebook.com/groups/fitbitversa
 
 ## **Sponsor Web Sites**
 
-The UKWideCycleRide Community - Diabetes.uk: <a href="https://cycle.diabetes.org.uk/?gclid=CjwKCAjwgISIBhBfEiwALE19SWE-1-IopgttOT0R5YxKNBT8bZltGZT1-GisxxCK5WcesSfY9yurcRoCHuoQAvD_BwE" target="_blank" title="The UKWideCycleRide Community - Diabetes Uk">The UKWideCycleRide Community - Diabetes.uk </a><br>
+The UKWideCycleRide Community - Diabetes.uk: <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank" title="The UKWideCycleRide Community - Diabetes Uk">The UKWideCycleRide Community - Diabetes.uk </a><br>
 
 Swim22 - Diabetes.uk: <a href="https://swim22.diabetes.org.uk/" target="_blank" title="Swim22 - Diabetes Uk">Swim22 - Diabetes.uk</a><br>
 
 Diabetes UK Month of Miles Challenge: <a href="https://swim22.diabetes.org.uk/" target="_blank" title="Diabetes UK Month of Miles Challenge"> Diabetes UK Month of Miles Challenge</a><br>
 
-JDRF: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF">JDRF</a><br>
+Breakthrough T1D - JDRF: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF">JDRF</a><br>
 
 ## **Sponsor cycling ride's, Swimming and Walking Events you can join!**
 
-JDRF Cycling Events:  <a href="https://jdrf.org.uk/get-involved/fundraise/events/?event_cat=cycle-rides#postFilter" title="JDRF Cycling Events">JDRF Cycling Events</a><br>
+Breakthrough T1D - JDRF Cycling Events: <a href="https://jdrf.org.uk/get-involved/fundraise/events/?event_cat=cycle-rides#postFilters" target="_blank"> Breakthrough T1D - JDRF Cycling Events:</a><br>
 
-Swim22:  <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" title="Swim22">Swim22</a><br>
+Swim22: <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank"> Swim22:</a><br>
+
 
 Ride The Lights: <a href="https://www.visitblackpool.com/things-to-do/events/ride-the-lights/?fbclid=IwAR2Nu16vjixmeDWUuuqSN3rd3sQsGZDVfo2fqv4kHEIw7CKIBLGebFxi91U" target="_blank" title="Ride The Lights">Ride The Lights</a><br>
 
-Hope to have more soon!
+
 
 ## **Facebook Groups**
 
 M5STACK NIGHTSCOUT:  <a href="https://www.facebook.com/groups/606295776549008/about/" title="M5STACK NIGHTSCOUT">M5STACK NIGHTSCOUT</a><br>
 
-Swim22:  <a href="https://www.facebook.com/Tamarahmcphie22" title="Swim22">Swim22</a><br>
+Swim22: <a href="https://www.facebook.com/Tamarahmcphie22" target="_blank"> Swim22:</a><br>
+
 
 UK Wide Cycle Ride - Diabetes UK:  <a href="https://www.facebook.com/groups/693788144706854" title="UK Wide Cycle Ride - Diabetes UK"> UK Wide Cycle Ride - Diabetes UK</a><br>
 
@@ -132,11 +140,14 @@ Xdrip+: <a href="https://www.facebook.com/groups/xDripG5/" target="_blank" title
 
 Xdrip+ - UK: <a href="https://www.facebook.com/groups/5390196001057776" target="_blank" title="Xdrip+ - UK">Xdrip+ - UK</a><br>
 
-G-Watch app <a href= "https://www.facebook.com/groups/304670184064267/?ref=pages_group_cta/" title="SamsungG-Watch app">G-Watch app</a><br>
+G-Watch app:<a href="https://www.facebook.com/groups/304670184064267/?ref=pages_group_cta/" target="_blank"> SamsungG-Watch app</a><br>
 
-JDRF San Diego Ride to Cure Diabetes:  <a href="https://www.facebook.com/groups/jdrfsdridetocurediabetes" title="JDRF San Diego Ride to Cure Diabetes"> JDRF San Diego Ride to Cure Diabetes</a><br>
+Diabetic Masked Man: <a href="https://www.facebook.com/groups/1291213948714988" target="_blank"> Diabetic Masked Man</a><br>
 
-AndroidAPS: <a href="https://www.facebook.com/groups/AndroidAPSUsers/posts/2932550243633040" title="AndroidAPS">AndroidAPS</a><br>
+Breakthrough T1D - JDRF San Diego Ride to Cure Diabetes: <a href="https://www.facebook.com/groups/jdrfsdridetocurediabetes" target="_blank" title="Breakthrough T1D - JDRF San Diego Ride to Cure Diabetes">Click Here</a>
+
+AndroidAPS: <a href="https://www.facebook.com/groups/AndroidAPSUsers/posts/2932550243633040" target="_blank" title="AndroidAPS">Click Here</a>
+
 
 Loop: <a href="https://www.facebook.com/groups/TheLoopedGroup" target="_blank"> Loop</a><br>
 
@@ -243,7 +254,14 @@ If you see or get any links not working or you have a link you'd like me to add 
 <img src="https://media.giphy.com/media/S2g8fOg4oFYyWg4STt/giphy.gif" width="200" height="180" /><br>
 </p>
 
+<a href="https://maundyrelief.org.uk/" target="_blank">
+ <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
 
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+ <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</center>
 
 <!-- 
 Links with image in!

@@ -24,7 +24,7 @@
 ## Dexcom Intro Userguide
 
 * Prepare for sensor insertion <br>
-* Take off Labels <span style="background-color:rgb(88, 121, 72)">**(Do not forget to keep Lebels safe or take a photo of your Sensor Code)**</span><br> you will need the code later.<br>
+* Take off Labels <span style="background-color:#26AF06">**(Do not forget to keep Lebels safe or take a photo of your Sensor Code)**<br>
 <centre><img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/2e7cf0c0-05bb-46d2-be05-f97a543f767d" title="Sensor Code"/></a></centre><br>
 * Insert a sensor <br>
 * Attach transmitter to transmitter holder <br>
@@ -60,7 +60,16 @@ And if at any point you feel you are not getting correct readings always do a fi
 ## Why Sensor Glucose Won't Always Match Your Blood Glucose<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/d9UzbC7pf4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<br>
 
+<a href="https://maundyrelief.org.uk/" target="_blank">
+ <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
+
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+ <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</center>
 
 
 
@@ -97,6 +106,9 @@ And if at any point you feel you are not getting correct readings always do a fi
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
 		
 		
+Adding a Green Highlighter with Bold too:
+<span style="background-color:rgb(88, 121, 72)">**(Settings - Apps - xDrip+)**</span>
+
 adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
 

@@ -64,12 +64,12 @@ nav:
     - 'Xdrip+ Intro': 'user-guide/xdrip/xdrip - Intro.md'
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'        
-        
+    - 'Connection issues – How to Fix': 'user-guide/xdrip/Xdrip connection Problem fix.md'
 
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
-    - 'About21': 'user-guide/Helpful/about.md'
+    - 'About': 'user-guide/Helpful/about.md'
 
 
 
