@@ -9,7 +9,7 @@ docs made by D.Galloway 2019- 2021-->
 
 ??? info "Notes"
 
-    This video installation process is a little old now and the video really needs to be updated, which I will do as soon as I get time to. <br>
+    This Xdrip+ Install 2019 video installation process is  old now and the video really needed to be updated, which I done now. But will be leaving on the site for reference sake only <br>
 
 I have now managed to make a little update to installing xdrip , but not much changed really apart from settings and the way we connect to CGM as also got more confusing.
 
@@ -29,12 +29,24 @@ I'm Also hoping Milos will like this too, and help me fit in a little bit better
 
 <iframe scrolling='no' frameborder='0' style='width: 1920px; height: 1080px; border:0;' src='https://app.screencast.com/YxuBW3bErdql4/e' allowfullscreen></iframe>
 
-I'm still going to leave it here for you to see how I first did it in and around 2018 and still a good help for you to set up with xdrip+ onto your mobile.<br> Just turn off the music if it’s not to your tastes :-) <br>
+
+
+
+If you want to see the same video on UTUBE Here it is.
+
+# **Xdrip  Install in 2025** - On UTUBE
+<a href="https://youtu.be/pqmreByMyOA?si=EiBZkDXfgD6ewhfb" target="_blank" title="Xdrip  Install in 2025 Utube">Xdrip  Install in 2025 on UTUBE</a> </center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqmreByMyOA?si=dfAgkR8izbqIFVUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br> <br>
+
+I'm also still going to leave the older version video, here for you all to see how I first did it in and around 2018 and still a good help for you to set up with xdrip+ onto your mobile.<br> Just turn off the music if it’s not to your tastes :-) <br>
 
 You do not need to have Nightscout installed for xdrip+ to work as mentioned in the video!
 You can get your reading direct from your CGM direct from within xdrip+.
 
-You also also do not need to install Nightscout to use Xdrip+ I made a mistake and did not relize until after when I relized I could run xdrip stright from your sensor! 
+You also do not need to install Nightscout to use Xdrip+ I made a mistake and did not relize until after when I relized I could run xdrip stright from your sensor! 
 <br>
 
 ### **Xdrip+ Install 2019** 

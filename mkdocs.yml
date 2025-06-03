@@ -52,6 +52,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  
 
 nav:
 - Home: 'index.md'
@@ -65,6 +66,13 @@ nav:
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'        
     - 'Connection issues – How to Fix': 'user-guide/xdrip/Xdrip connection Problem fix.md'
+
+-   Watches:
+    - 'Watches Intro': 'user-guide/Watches/Watches Intro.md'
+
+
+-   AndroidAPS : 
+    - 'What is AAPS': 'user-guide/AndroidAPS/What is AAPS.md'
 
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'

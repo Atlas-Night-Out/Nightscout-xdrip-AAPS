@@ -49,3 +49,63 @@ sequenceDiagram
   Terminal->>Database: Request customer data
   Database-->>Terminal: Customer data
 ```
+
+
+=== "🔄 AAPS in Action"
+``` mermaid
+graph LR
+  A[CGM] --> |Bluetooth| B[AAPS App];
+  B -->|Commands| C[Insulin Pump];
+  C --> D[Adjust Insulin];
+  B --> E[Nightscout Cloud];
+  E --> F[Caregiver/Monitor];
+```
+=== "mermaid"
+```js title="code-examples.md" linenums="1" hl_lines="2-4"
+graph LR
+  A[CGM] --> |Bluetooth| B[AAPS App];
+  B -->|Commands| C[Insulin Pump];
+  C --> D[Adjust Insulin];
+  B --> E[Nightscout Cloud];
+  E --> F[Caregiver/Monitor];
+```
+
+
+=== "mermaid"
+```js title="code" 
+graph LR
+  A[CGM] --> |Bluetooth| B[AAPS App];
+  B -->|Commands| C[Insulin Pump];
+  C --> D[Adjust Insulin];
+  B --> E[Nightscout Cloud];
+  E --> F[Caregiver/Monitor];
+```
+
+=== "Sensor Applicator"
+
+    <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" title="Sensor Applicator"/></a>
+
+=== "Sensor"
+
+    <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e1682efa-b4e4-4874-93fe-1caa106f24b9" title="Sensor"/></a>
+    
+
+=== "Transmitter "
+
+    <img width="300" height="Auto" border="0" align="left"  src="https://github.com/user-attachments/assets/be60b7f9-58bb-4a4f-8775-2dd0c851a6fb" title="Transmitter"/><center></a><img width="260" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f331bf48-3ad1-456b-8484-503c37d780a1" title="Transmitter Serial "/></center></a>
+
+    ### Code Blocks in Content Tabs
+
+=== "Display"
+
+    <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/962a2daf-fb71-4133-b434-b97f0ce77cc0" title="Displays"/></a>
+
+=== "mermaid"
+```js title="code" linenums="1" hl_lines="2-4"
+graph LR
+  A[CGM] --> |Bluetooth| B[AAPS App];
+  B -->|Commands| C[Insulin Pump];
+  C --> D[Adjust Insulin];
+  B --> E[Nightscout Cloud];
+  E --> F[Caregiver/Monitor];
+```
