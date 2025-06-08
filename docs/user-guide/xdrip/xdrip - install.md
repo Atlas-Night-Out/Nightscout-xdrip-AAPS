@@ -21,7 +21,7 @@ This is the link to the Screencast that I have now setup to see if it will be be
 
 I will also add the video to Utube, but the links will not work from there so it will be better to use this Screencast link below! <br>
 
-I'm Also hoping Milos will like this too, and help me fit in a little bit better to getting the right informtion in on this site too due to my Grammer being terrible and I'm not as fast as teh rest of the Developers<br>
+I'm Also hoping Milos will like this too, and help me fit in a little bit better to getting the right informtion in on this site too due to my Grammer being terrible and I'm not as fast as the rest of the Developers<br>
 
 
 # **Xdrip  Install in 2025** - On my Screencast

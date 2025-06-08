@@ -73,6 +73,7 @@ nav:
 
 -   AndroidAPS : 
     - 'What is AAPS': 'user-guide/AndroidAPS/What is AAPS.md'
+    - 'AAPS on Wear OS Smartwatch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
 
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'

@@ -75,7 +75,7 @@ AAPS (Android Artificial Pancreas System) is a do-it-yourself (DIY), open-source
 !!! Note "🚀 Getting Started" 
 
 
-1. Read the <a href="https://androidaps.readthedocs.io/en/latest/" target="_blank"> Official Docs</a>  – Understand risks & requirements. This site will be trying to help on video setups rather than the Official Docs already made for to use.
+1. Read the <a href="https://androidaps.readthedocs.io/en/latest/" target="_blank"> Official Docs</a>  – Understand the risks & requirements. This site Focuses on video setups rather than the Official Docs already made.
 2. <a href="https://androidaps.readthedocs.io/en/latest/Getting-Started/CompatiblePumps.html" target="_blank"> Check Compatibility</a> – Ensure your devices work with AAPS.
 3. Join Support Groups (Facebook: <a href="https://www.facebook.com/groups/androidapsusersuk" target="_blank"> "AndroidAPS Users UK"</a> -<a href="https://www.facebook.com/groups/AndroidAPSUsers" target="_blank"> "AndroidAPS Users"</a> - <a href="https://discord.com/invite/4fQUWHZ4Mw" target="_blank"> "Discord"</a> - <a href="https://www.facebook.com/groups/TheLoopedGroup" target="_blank"> "Looped"</a>.<br>
 4. Build & Install – Follow the <a href="https://androidaps.readthedocs.io/en/latest/SettingUpAaps/BuildingAaps.html" target="_blank"> step-by-step guide</a>.
