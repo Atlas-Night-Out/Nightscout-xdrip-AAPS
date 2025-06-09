@@ -18,7 +18,17 @@ A little About Me!
 I do not Drink<br>
 :beer:<br>
 or Smoke :material-cigar-off: <br><br>
-        I like to try to go out for a quite :material-bicycle: :man_biking_tone3: when the weather is good :material-weather-sunny:, and there is littlw wind to help on all of my Type 1 issues.<br><br><br>
+        I like to try to go out for a quite :material-bicycle: :man_biking_tone3: when the weather is good :material-weather-sunny:, and there is littl wind to help on all of my Type 1 issues.<br>    
+<br>
+I have been living with type 1 diabetes for 56 years, starting with pork insulin known as Semilente. My mother had to care for me with the help of black and red lines, a challenging task. For over 16 years, my condition was poorly controlled as I relied on urine testing and later urine test strips before transitioning to blood glucose testers.<br>
+
+I even used a device, a sort of "gun," to inject the blunt needles into me once a day. Through this repository and my video, I hope to continue contributing to improvements in our daily lives. <br>
+
+With Nightscout, Xdrip+ and Android APS
+
+<br><br>
+
+        
 
         
 
