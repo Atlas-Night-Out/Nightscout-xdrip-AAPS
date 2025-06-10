@@ -70,10 +70,22 @@ nav:
 -   Watches:
     - 'Watches Intro': 'user-guide/Watches/Watches Intro.md'
 
+-   T1's Smart Home:
+    - 'Aqara T1 Pro cube Setup to Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Aqara T1 Pro cube Setup to Echo Show.md'
+    - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Aexa Show Nightscout on Echo Show 10 3rd Gen.md'
+    - 'Myjade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
+    - 'LinknLink': 'user-guide/LinknLink/LinknLink.md'
+-   Freestyle Libre : 
+    - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'    
+
 
 -   AndroidAPS : 
     - 'What is AAPS': 'user-guide/AndroidAPS/What is AAPS.md'
     - 'AAPS on Wear OS Smartwatch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
+
+-   Medtronic :
+    - 'Disclaimer and Warning': 'user-guide/Medtronic/Disclaimer and Warning.md'
+    - 'New experimental version for CareLink reCAPTCHA': 'user-guide/Medtronic/New experimental version for CareLink reCAPTCHA.md'
 
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'

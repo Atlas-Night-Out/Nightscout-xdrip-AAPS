@@ -12,6 +12,14 @@ For full Web site content visit <a href="https://www.thediabeticway.co.uk/index.
 : <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/Nightscout/Setting_up_Github_Account_part1/">Nightscout Setup</a> 
 * 4 - CGM Watches Setups
 : <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/watches/Watches/">CGM Watches Setups</a>
+* 5 - T1's Smart Home
+: <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara T1 Pro cube Setup to Echo Show/">T1's Smart Home</a>
+* 6 - Freestyle Libre
+: <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">Freestyle Libre</a>
+* 8 - Medtronic
+: <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Medtronic/Disclaimer%20and%20Warning/">Medtronic</a>
+* 9 - Diabetes Helpful Things
+: <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Helpful/Helplinks/">Diabetes Helpful Things</a> 
 
 <br><br>
 A little About Me!
@@ -22,7 +30,7 @@ or Smoke :material-cigar-off: <br><br>
 <br>
 I have been living with type 1 diabetes for 56 years, starting with pork insulin known as Semilente. My mother had to care for me with the help of black and red lines, a challenging task. For over 16 years, my condition was poorly controlled as I relied on urine testing and later urine test strips before transitioning to blood glucose testers.<br>
 
-I even used a device, a sort of "gun," to inject the blunt needles into me once a day. Through this repository and my video, I hope to continue contributing to improvements in our daily lives. <br>
+I even used a device, a sort of "gun," to inject the blunt needles into me once a day. Through this repository and my video setups, I hope to continue contributing to improvements in our daily lives. <br>
 
 With Nightscout, Xdrip+ and Android APS
 
