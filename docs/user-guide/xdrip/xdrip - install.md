@@ -24,7 +24,8 @@ I will also add the video to Utube, but the links will not work from there so it
 I'm Also hoping Milos will like this too, and help me fit in a little bit better to getting the right informtion in on this site too due to my Grammer being terrible and I'm not as fast as the rest of the Developers<br>
 
 
-# **Xdrip  Install in 2025** - On my Screencast
+### Xdrip  Install in 2025 Screencast
+
 <a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Xdrip  Install in 2025 Screencast">Xdrip  Install in 2025</a> </center>
 
 <iframe scrolling='no' frameborder='0' style='width: 1920px; height: 1080px; border:0;' src='https://app.screencast.com/YxuBW3bErdql4/e' allowfullscreen></iframe>
@@ -34,10 +35,12 @@ I'm Also hoping Milos will like this too, and help me fit in a little bit better
 
 If you want to see the same video on UTUBE Here it is.
 
-# **Xdrip  Install in 2025** - On UTUBE
+### Xdrip  Install in 2025 - On UTUBE
+
 <a href="https://youtu.be/pqmreByMyOA?si=EiBZkDXfgD6ewhfb" target="_blank" title="Xdrip  Install in 2025 Utube">Xdrip  Install in 2025 on UTUBE</a> </center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pqmreByMyOA?si=dfAgkR8izbqIFVUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=pqmreByMyOA" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e7a7ac32-20c4-4a41-8468-6473d262807d" title="Xdrip  Install in 2025 Screencast"/></a>
 
 <br> <br>
 
@@ -47,11 +50,16 @@ You do not need to have Nightscout installed for xdrip+ to work as mentioned in 
 You can get your reading direct from your CGM direct from within xdrip+.
 
 You also do not need to install Nightscout to use Xdrip+ I made a mistake and did not relize until after when I relized I could run xdrip stright from your sensor! 
-<br>
+<br><br>
+
+
+!!! Warning "Important Note - This Video is a Old Way to do it! Watch with Caution"
 
 ### **Xdrip+ Install 2019** 
 
-<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/7Qwr4HrchTU" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=7Qwr4HrchTU" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/8b625dcf-178c-4fc3-909a-044306d04e16" title="xDrip Setup 2019"/></a>
+
 
 <br>
 
@@ -93,8 +101,22 @@ See your mobiles instructions, as it will depend on Android version and manufact
 
 See video on all the permissions I have allowed Xdrip+ too have on my mobile.
 
+### xDrip+ Permissions
 
-<iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/yHv86lZ2s58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<a href="https://www.youtube.com/embed/yHv86lZ2s58" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/b187ddcd-8755-4be9-96a8-a2432689c3bb" title="xdrip+ Authorization Settings
+"/></a>
+
+<br><br>
+
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
+
+
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
+
 <center>
 ## Next: see
 ### <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> <br><br></center>
@@ -102,10 +124,9 @@ See video on all the permissions I have allowed Xdrip+ too have on my mobile.
 <a href="https://maundyrelief.org.uk/" target="_blank">
  <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
 
-<br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
-</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 </center>
 
 
@@ -127,8 +148,8 @@ See video on all the permissions I have allowed Xdrip+ too have on my mobile.
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
 		
 
-Adding a Green Highlighter with Bold too:
-<span style="background-color:rgb(88, 121, 72)">**(Settings - Apps - xDrip+)**</span>
+adding 	Green Hightligher!!!!!!!!	with bold too
+<span style="background-color:#26AF06">**Choose Device**</span>
 
 
 adding 	Yellow Hightligher!!!!!!!!	with bold too
@@ -162,9 +183,22 @@ Adding an embeded video
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+Video with image but this if a false Video!!!! And just and image with a link!
+<a href="https://youtu.be/FZvuVlHOh8w" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f44c325b-d1d0-483a-813b-bc45813f846a" title="Alexa - Jade - Skills & Games"/></a>
+
+
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
 
+
+This is a note with a drop down! you have to keep the format the same for it to work!!!!!!!!!!
+??? info "Notes"
+
+    Before proceeding, ensure that you've downloaded and installed all required applications on their respective devices. Once everything is set up, familiarize yourself with each app’s interface and functionality. <br> 
+
+
+!!! Warning "Important Notice - This Video is a Old Way Watch with Caution"
 
 List
 This is a regular paragraph.

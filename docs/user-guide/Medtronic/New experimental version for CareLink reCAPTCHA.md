@@ -19,10 +19,19 @@ If xDrip app is already installed it is recommended not to uninstall it and to i
 
 This version is really just a first working prototype, long term usablity and stability is not guarantedd!
 
-See The Repo on <a href=" https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank" title="v0.1.13-beta">Github</a> by benceszasz <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank">
+See The Repo on :simple-github: <a href=" https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank" title="v0.1.13-beta">Github</a> by benceszasz <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank">
   <img width="200" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1e88403-c2fe-4752-9b8f-08ccc8606eb9" title="Github Black Cat"/></a></a><br><img width="100" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/01ca1425-77c7-4eca-b98e-949aecf85935" title="Jigsaw Homet"/></a>
 
 <br>
+<br>
+
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
+
+
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
 
 <a href="https://maundyrelief.org.uk/" target="_blank">
  <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
@@ -30,7 +39,7 @@ See The Repo on <a href=" https://github.com/benceszasz/xDripCareLinkFollower/re
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
-</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 </center>
 
 

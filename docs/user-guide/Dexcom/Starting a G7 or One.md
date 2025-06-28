@@ -2,7 +2,9 @@
 
 <img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f0560afb-e63a-45d0-97be-c28732662e80" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></a><br>
 
-<iframe width="735" height="490" src="https://www.youtube.com/embed/b_E1MbH6qa0?si=W8nLIQu6MJzbhryX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=b_E1MbH6qa0" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/09a72cb7-720d-435f-ab77-3119333e38df" title="Dexcom One+ Overview"/></a>
+
 
 
 ## Starting a G7 or One+  
@@ -21,7 +23,7 @@
 <center> <img width="380" height="320" border="0" align="center"  src="https://github.com/user-attachments/assets/edc8d0b3-cbb2-4752-87a1-7b03a04e555e" title="Dexcom One Sensor"/></a></center>
 <center> <img width="300" height="220" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor Applicator"/></a></center>
 </span><br><br>
-**We Need an Agreeable NHS!**
+**We Need an U.K Agreeable NHS!**
 
 
 * You Can get a Dexcom One+ by requesting one from your GP if within the UK and you can get a Dexcom One Receiver from the Dexcom Web Site: <a href="https://www.dexcom.com/en-GB/dexcom-one-plus-cgm-system" target="_blank" title="Dexcom Web Site"> Dexcom Web Site</a>
@@ -37,13 +39,15 @@ Forget all devices whose names are **DXCM** or **DX02** where could be any two c
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" title="To Update">To Update</a>
 
 
-* Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor.	<br> Scan the code below with your mobile, it's also a good idea to put your mobile in the horizontal position, , you may need to move the phone back a little bit from the QR code if scanning from a large-screen computer and wait for a pop up to show up.<br><br>
+* Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor.	<br> Scan the code below with your mobile, it's also a good idea to put your mobile in the horizontal position, you may need to move the phone back a little bit from the QR code if scanning from a large-screen computer and wait for a pop up to show up.<br><br>
 <center> <img width="620" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/e10b566f-5799-4474-a537-19567dba14f4" title="Sensor code"/></a></center><br><br>
 
 You should see a message like this come up:<br><br>
 <img width="620" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/d97eb7fe-feb0-4fae-8c33-24fb60dedd5a" title="Keks"/></a><br>
 
-<center><iframe width="417" height="741" src="https://www.youtube.com/embed/NQmZOjAGYqI" title="Keks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center><br>
+<center><a href="https://www.youtube.com/shorts/NQmZOjAGYqI?time_continue=30&embeds_referring_euri=http%3A%2F%2F127.0.0.1%3A8000%2F&source_ve_path=MTM5MTE3LDM2ODQyLDM2ODQyLDI4NjY2" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1180280-23fb-4693-96ad-03588f647abd" title="xDrip - Keks"/></a></center>
+<br>
 
 ## Prepare your xDrip+ settings
 * Prepare your xDrip+ settings, on your mobile, as described (here). It is crucial to go over the settings and confirm they are correct. This is different than scanning the code you have just done, so spend some time going though these settings.<br>
@@ -62,7 +66,16 @@ Over time, the status page will fill with other data elements, like time remaini
 ## Troubleshooting
 If you see “Mismatch” on the status page, it signifies either your pairing code is wrong or there is another sensor close. Confirm that the pairing code is accepted and wait for the connection.<br><br>
 <img width="400" height="400" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
+<br>
+<br>
 
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
+
+
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
 
 <br>
 
@@ -72,9 +85,8 @@ If you see “Mismatch” on the status page, it signifies either your pairing c
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
-</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 </center>
-
 
 
 

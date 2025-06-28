@@ -31,7 +31,9 @@
 
 ## Dexcom Insertion Video
 
-<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
+<a href="https://www.youtube.com/embed/1MRU6_GTEtg" target="_blank">
+  <img width="auto" height="auto" border="0" align="Left"  src="https://github.com/user-attachments/assets/f0b777f5-6d2d-4b4a-a3a8-9c0c4c5d6ffa" title="Dexcom G6 — Auto Insertion Video"/></a>
+
 </iframe>
 
 
@@ -43,7 +45,12 @@ I found if I was using xdrip+ I would start the Sensor and Transmitter, first in
 
 Then After the 2 hour Warm up I would then add Sensor code and add the tansmitter Serial Number to the Dexcom Receiver to let it do its process. <br>  I tended not to carry the receiver around with me but liked it at the side of the bed as an extra percaution.<br>
 <br>
-<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/c5mjePmJVS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+## Dexcom G6 — How To Get Started with your Receiver
+
+<a href="https://www.youtube.com/embed/c5mjePmJVS0" target="_blank">
+  <img width="auto" height="auto" border="0" align="Left"  src="https://github.com/user-attachments/assets/20cd2291-38b0-4213-9581-aaf3ce52e935" title="Dexcom G6 — How To Get Started with your Receiver"/></a>
+  
+
 
 ## Some of my Tips!
 ## Tips
@@ -57,10 +64,21 @@ When it's time comes to removing the Sensor after 10 days I use a spray called E
 And if at any point you feel you are not getting correct readings always do a finger prick. I find it can take a few hours for the sensor to settle in so I will finger prick until I can trust the readings. Drinking Water also helps<br>
 
 
-## Why Sensor Glucose Won't Always Match Your Blood Glucose<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/d9UzbC7pf4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Why Sensor Glucose Won't Always Match Your Blood Glucose
 
+<a href="https://www.youtube.com/embed/d9UzbC7pf4E" target="_blank">
+  <img width="auto" height="auto" border="0" align="Left"  src="https://github.com/user-attachments/assets/9eedbaec-4a3a-4b23-b064-3ca1f0aeeb2d" title="Why Sensor Glucose Won't Always Match Your Blood Glucose"/></a>
+<br>
 
 <br>
+
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
+
+
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
 
 <a href="https://maundyrelief.org.uk/" target="_blank">
  <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
@@ -68,7 +86,7 @@ And if at any point you feel you are not getting correct readings always do a fi
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
-</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 </center>
 
 

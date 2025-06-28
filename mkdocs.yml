@@ -58,30 +58,41 @@ nav:
 - Home: 'index.md'
 - Dexcom :
         - 'Dexcom G6/One': 'user-guide/Dexcom/Dexcom G6_One.md'
-        - 'Dexcom xDrip Recommended Settings': 'user-guide/Dexcom/xDrip-Advised-Settings - G6, G7,Dexcom One,One+.md'
+        - 'Dexcom xDrip Recommended Settings': 'user-guide/Dexcom/Dexcom xDrip Recommended Settings.md'
         - 'Starting a G7 or One+': 'user-guide/Dexcom/Starting a G7 or One.md'
+        - 'Dex Share Followers': 'user-guide/Dexcom/Dex Share Followers.md'
+        
 
 - Xdrip :
     - 'Xdrip+ Intro': 'user-guide/xdrip/xdrip - Intro.md'
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'        
     - 'Connection issues – How to Fix': 'user-guide/xdrip/Xdrip connection Problem fix.md'
+    - 'Hardware Data Source': 'user-guide/xdrip/xdrip - hardwaredatasource.md'
+    - 'xDrip Settings': 'user-guide/xdrip/Settings.md'
+    - 'Display Settings': 'user-guide/xdrip/Display-Settings.md'
+    
+    - 'Tidepool': 'user-guide/xdrip/Tidepool.md'
+
+- Nightscout :
+    - 'Part 1 Setting up Github Account': 'user-guide/Nightscout/Setting_up_Github_Account_part1.md'
 
 -   Watches:
     - 'Watches Intro': 'user-guide/Watches/Watches Intro.md'
+    - 'All Watch Types': 'user-guide/Watches/Watches.md'
 
 -   T1's Smart Home:
-    - 'Aqara T1 Pro cube Setup to Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Aqara T1 Pro cube Setup to Echo Show.md'
-    - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Aexa Show Nightscout on Echo Show 10 3rd Gen.md'
-    - 'Myjade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
-    - 'LinknLink': 'user-guide/LinknLink/LinknLink.md'
+    
+    - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Alexa Show Nightscout on Echo Show 10 3rd Gen.md'
+    - 'My Jade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
+    
 -   Freestyle Libre : 
     - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'    
 
 
 -   AndroidAPS : 
     - 'What is AAPS': 'user-guide/AndroidAPS/What is AAPS.md'
-    - 'AAPS on Wear OS Smartwatch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
+    
 
 -   Medtronic :
     - 'Disclaimer and Warning': 'user-guide/Medtronic/Disclaimer and Warning.md'
@@ -91,6 +102,13 @@ nav:
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
     - 'About': 'user-guide/Helpful/about.md'
+
+- Diagram-Examples :
+    - 'Content Tabs': 'user-guide/Diagram-Examples/content-tabs.md'
+    - 'Flowchart': 'user-guide/Diagram-Examples/flowchart example.md'
+    - 'Code-Examples': 'user-guide/Diagram-Examples/code-examples.md'
+    - 'Admonitions': 'user-guide/Diagram-Examples/admonitions.md'
+    - 'Diagram-Examples': 'user-guide/Diagram-Examples/diagram-examples.md'
 
 
 

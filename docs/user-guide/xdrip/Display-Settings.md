@@ -5,59 +5,131 @@ docs made by D.Galloway 2019- 2023-->
 
 ### This menu allows you to modify many graphical aspect settings of xDrip+.
 
-## xdrip+ Colour Settings
+## [xdrip+ Colour Settings](#xdrip-colour-settings-xdrip-colour-settings)
 
-First, Go to Hamburger icon in the top left  <img width="150" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Hamberger icon2.jpg" title="Hamburger icon "/></a><br> then Go to Xdrip+ Display Settings.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Setting main.jpg" title="xdrip+ Settings "/></a> <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip display settings.jpg" title="xdrip+  Display Settings/ "/></a><br><br>
-I will start with  Xdrip+ Colour Settings from the list! so select it.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour settings1.jpg" title="xdrip+ Colour Settings "/></a> <br><br>
+First, Go to :material-menu: Hamburger icon in the top left  <img width="150" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/36b08519-d3c7-457b-b6c7-b3f6d2204591" title="Hamberger icon"/></a>
+</a><br> then Go to Xdrip+ Display Settings.<br><br>
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3bb550ab-fe5c-45d8-a252-bdeb6b0470d8" title="Settings"/></a>&emsp;&emsp;<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/31cf2652-3d52-4cda-b587-51cf3195fdce" title="xdrip display settings"/></a>
+<br><br>
+
+It will start with Xdrip+ Colour Settings in the list! so select it.<br><br>
+
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/97f25526-64a5-42c6-893d-fad3687b7ef9" title="xdrip colour settings1"/></a>
+<br><br>
+
 This will now show you the Glucose values and lines with an Example Chart at the top for you see what each colour is doing.<br><br>
-<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Example chart.jpg" title="Example Chart "/></a> <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour settings.jpg" title="xdrip+ Colour Settings / "/></a><br><br>
+
+<img width="360" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/31dfbcd7-a5d7-452f-9163-4f96e1a00d2b" title="Example chart"/></a>
+ <img width="360" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/397dd657-8f33-4cf9-9ccc-c2d482fed27f" title="xdrip colour settings"/></a>
+<br><br>
+
 You can scroll down to see more values.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour settings list.jpg" title="xdrip+ Colour Settings List "/></a> <br><br>
+
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/8af1bf84-16c9-4d24-99f9-e44acd6e742c" title="xdrip colour settings list 1"/></a>&emsp;&emsp; <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/86668190-8298-4db9-bf85-804f2d4b55a7" title="xdrip colour settings list_2"/></a>
+ <br><br>
+ <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3931dea3-9f39-4861-9afe-154cff23d146" title="xdrip colour settings list_3"/></a>&emsp;&emsp; <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/8bbe2133-88aa-4358-8aef-31de22273285" title="xdrip colour settings list_4"/></a>
+
+<br><br>
+
  You can do a long press on each of the different colours to change the colour settings.<br><br>
  The example chart on top will show the effect of what you have modified in this section.<br><br>
- <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour Pallet.jpg" title="xdrip+ Colour Pallet "/></a><br><br>
+
+ <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/48f08111-b470-4b4a-81e6-33f7eba6148a" title="xdrip colour Pallet"/></a>
+<br><br>
+
  You can always select revert to default if you do not like your colour choices.<br><br>
  You can also modify the recent BG value and trend arrow colour in regard with range limits.<br><br>
- <img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Colour of BG reading and trend arrow.jpg" title="xdrip+ Colour of BG Reading and Trend Arrow "/>
+
+ <img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/91f2808e-2bcb-4c93-9636-db35a78742b3" title="Colour of BG reading and trend arrow"/></a>
+<br>
  
 ## Treatments and Prediction Curves
-1.	Insulin on board (treatment main curve)
-2.	Insulin activity (small dotted line)
-3. Glucose Prediction
-4. Carbs on Board<br><br>
- <img width="800" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Treatments Prediction Curves exaple2.jpg" title="xdrip+ Treatments Prediction Curves exaple"/><br><br>
+
+### 1.	Insulin on board (treatment main curve)
+
+### 2.	Insulin activity (small dotted line)
+
+### 3. Glucose Prediction
+
+### 4. Carbs on Board<br><br>
+
+ <img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/431435e4-687d-4032-bf31-c79bdd568ed0" title="Treatments Prediction Curves exaple2"/></a>
+<br><br>
 
 ## AVERAGE AND TARGET LINES
-1. - 8-Hour average line
-2. - 24-Hour average line
-3. - Target line<br><br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/average and target lines2.jpg" title="xdrip+ Average and Target Lines"/><br><br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/average and target lines_example.jpg" title="xdrip+ Average and Target Lines example"/><br><br>
+
+### 1. - 8-Hour average line
+
+### 2. - 24-Hour average line
+
+### 3. - Target line<br><br>
+
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/b981ad0a-7c7b-4448-a854-a544a71ff638" title="average and target lines2"/></a>
+<br><br>
+
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/d40b0682-f62e-407b-a8ce-ea10c7c4711e" title="average and target lines_example"/></a>
+<br><br>
 
 ## ANNOTATIONS AND DOTS
-1.	Blood tests (also calibrations), and treatments.
-2.	Blood tests Foreground
-3.	Treating Background
-4.	Treating Foreground<br><br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/ANNOTATIONS AND DOTS.jpg" title="xdrip+ ANNOTATIONS AND DOTS"/><br><br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/ANNOTATIONS AND DOTS_example.jpg" title="xdrip+ ANNOTATIONS AND DOTS - Example"/><br><br>
+
+### 1.	Blood tests (also calibrations), and treatments.
+
+### 2.	Blood tests Foreground
+
+### 3.	Treating Background
+
+### 4.	Treating Foreground<br><br>
+
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3de8105c-73ae-4a6a-ae3d-cb80e3707939" title="ANNOTATIONS AND DOTS"/></a>
+<br><br>
+
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/37b89d97-c9cb-41e9-98f0-e797c0405ca6" title="ANNOTATIONS AND DOTS_example.jpg"/></a>
+<br><br>
 
 ## BACKGROUNDS
-Graphs backgrounds
-1. Main Chart Background<br>
-2. Notification Background<br>
-3. Widget Background
 
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Backgrounds2_numbers.jpg" title="xdrip+ Backgrounds"/>  <br><br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Backgrounds2_example.jpg" title="xdrip+ Backgrounds - Example"/><br><br>
+### Graphs backgrounds
+
+### 1. Main Chart Background<br>
+
+### 2. Notification Background<br>
+
+### 3. Widget Background
+<br><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/d0d7349f-2f9f-43d2-b69b-df8975ea0ed8" title="Backgrounds2_numbers.jpg"/></a>
+<br><br>
+
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/57a715e6-f17b-44ff-b182-23c9ce9a0dea" title="Backgrounds2_example"/></a>
+<br><br>
 
 
 ##  Language
-By default, xDrip+ will use your phone language. You can select additional language for xDrip+ or force it to display instead of the Mobiles language. For this: select the language in Choose a specific language, then change the Force language Text switch.<br>
-<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip Display settings Lanuage.jpg" title="xdrip+ Display Settings "/></a> <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/choose language.jpg" title="xdrip+ Choose Specific Language / "/></a><br>
 
+By default, xDrip+ will use your phone language. You can select additional language for xDrip+ or force it to display instead of the Mobiles language. For this: select the language in Choose a specific language, then change the Force language Text switch.<br>
+
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/0f96ea56-2dee-42e9-a057-d8833669f975" title="xdrip Display settings Lanuage"/></a>&emsp;&emsp;<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/1c8438fb-c828-496f-9062-1d525a7e6e6b" title="choose language"/></a>
+<br>
+
+<br>
+
+
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
+
+
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
+
+
+<a href="https://maundyrelief.org.uk/" target="_blank">
+ <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
+
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+ <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+</center>
 
 
  
@@ -110,7 +182,26 @@ adding 	Yellow Hightligher!!!!!!!!	with bold too
 <a>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
 
+Note
+**Note:** a note is something that needs to be mentioned but is apart from the context.
 
+
+This is a note with a drop down! you have to keep the format the same for it to work!!!!!!!!!!
+??? info "Notes"
+
+    Before proceeding, ensure that you've downloaded and installed all required applications on their respective devices. Once everything is set up, familiarize yourself with each app’s interface and functionality. <br> 
+
+
+???+ note "Note"       dropdown!
+
+!!! note "Note"         normal!
+
+!!! Warning "Important Notice - This Video is a Old Way Watch with Caution"
+
+*****************************************
+white space:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 Adding a image with link

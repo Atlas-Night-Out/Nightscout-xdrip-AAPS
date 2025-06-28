@@ -1,4 +1,5 @@
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Echo Show 10 (3rd gen).jpg" title="Echo Show 10 (3rd gen)"/></a><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/9f29b4a8-08ff-4faa-9a87-70c859264f5a" title="Echo Show 10 (3rd gen)"/></a>
+<br>
 
 You will have already have had to setup a Nightscout site before you can do this setup, see [Nightscout Setup](./../../Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout) if you have not already set it up.<br>
 
@@ -8,46 +9,53 @@ The latest software releases from Amazon for the Alexa Show 10 allows you to vie
 
 ## 1.	Swipe down from top of Show display and tap Settings:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Settings_20230201_180912.jpg" title="Settings"/></a><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e6348229-bef7-489a-9d80-7954a821e85f" title="Echo10 Show Settings"/></a><br>
 
 ## 2.	Scroll up and tap on Device Options:<br>
 
-<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Device options2.jpg" title="Device options"/></a><br>
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/58dc11d0-ca9c-4869-b3ee-d9b60ee9adae" title="Device Option"/></a>
+<br>
 
 ## 3.	Roll up and tap on Web Options:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Web Options_20230201.jpg" title="Web Options"/></a><br>
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a1f42055-bcab-4259-8bc4-fc8022417f67" title="Web Options"/></a>
+<br>
 
 ## 4.	Scroll up and tap on Browser:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Browser_20230201.jpg" title="Browser"/></a><br>
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/d7402d25-5819-41fa-95a4-9cf80701f1f2" title="Browser"/></a>
+<br>
 
 ## 5.	Select Silk:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Silk.jpg" title="Silk"/></a><br>
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/5d8eb104-f885-49cc-9f0c-51660ee58c6e" title="Silk"/></a>
+<br>
 
+## NOW say  <span style="background-color:#26AF06">**Alexa go home**<br>
 
-## NOW say <span style="background-color: #FFFF00">**“Alexa go home”**</span><br>
+## THEN say <span style="background-color:#26AF06">**Alexa show Silk**<br>
 
-## THEN say <span style="background-color: #FFFF00">** “Alexa show Silk”**</span><br>
 
 ## SELECT Search and enter your Nightscout address:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/yourappname.jpg" title="yourappname"/></a><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a1dec4ef-40fc-4254-bd0c-59b1cf02a7c8" title="Your App Name"/></a>
+<br>
 
 ## TYPE in your Nightscout URL: https://(yourappname).herokuapp.com<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/yourappname2.jpg" title="yourappname"/></a><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/55a6db34-3d91-42f0-a858-fd680ab22035" title="Your App Name 2"/></a>
+<br>
 
 Give yourself a big Clap to  and take a  coffee: break:  Well Done<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/nightscout_20230201.jpg" title="Nightscout on a Echo Show 10 3rd Gen"/></a><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/86c8f470-0f08-49f4-945a-cc0259db3751" title="Nightscout on a Echo Show 10 3rd Gen"/></a><br>
 
 ## You can now select the menu cube bar at the top left icon to save as a Book Mark your Nightscout. <br>
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/AtUQmPmVn24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## After you add it just say:<span style="background-color: #FFFF00">**“Alexa show Silk”**</span><br>
+After you add it just say: <span style="background-color:#26AF06">**Alexa show Silk**<br>
+
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/Qie0bqnAqU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
@@ -55,32 +63,41 @@ Give yourself a big Clap to  and take a  coffee: break:  Well Done<br>
 
 ## 1.	Select the lock<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/add api_secret.jpg" title="api secret"/></a><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/5fc5ae95-2d52-4cd7-abcb-0f4641f8e6f6" title="api secret"/></a>
+<br>
 
 ## 2.	Select the clock views.<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/clock views.jpg" title="Nightscout clock views"/></a><br>
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a9b09c18-b11d-49a3-8a19-e923dc655102" title="Clock Views"/></a>
+<br>
 
 ## 3.	You now have a bigger display to see your levels.<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/big reading.jpg" title="Nightscout big reading.jpg"/></a><br>
-
-
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/9767d6f9-865a-4586-894f-40a26ee2dc1f" title="Big Readings"/></a>
+<br>
+<br>
 <br>
 
 
 
+<br>
+
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
 
 
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
 
+<a href="https://maundyrelief.org.uk/" target="_blank">
+ <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
 
-
-
-
-
-</br>
-
-
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+ <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+</center>
 
 
 
@@ -109,11 +126,14 @@ Give yourself a big Clap to  and take a  coffee: break:  Well Done<br>
 adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
 
+Adding a Green Highlighter with Bold too:
+<span style="background-color:rgb(88, 121, 72)">**(Settings - Apps - xDrip+)**</span>
 
 <a>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
 
-
+underline text with Green colour:
+<span style="background-color:#26AF06">**Alexa show Silk**<br>
 
 
 Adding a image with link

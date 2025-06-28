@@ -8,9 +8,11 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/4730d652-5406-4353-a0f2-b67a16c6856b" title="xdrip+ original logo"/></a>
 
 
-## <span style="color:#26AF06">**Xdrip connection Problem** </span> <br>
+## <span style="color:#26AF06">**Xdrip connection Problems Fit** </span> <br>
 
-<iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>  
+<a href="https://www.youtube.com/watch?v=WfKZ2_Hv3nE" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/645ca02a-fc26-4ba7-bc88-ff492ef93bf0" title="Xdrip connection Problem fix"/></a>
+ 
 <font size="4"> 
 ### 1. Make sure you are up to date on xdrip with the stable release (Nightly build 25th Apr 2025). You can do this by <span style="background-color:#26AF06">**Following the links below**</span>
 <br>
@@ -20,16 +22,22 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
   <img width="600" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7c869561-8339-484e-bda8-728bb9bc5480" title="xdrip Nightly Build"/></a><br>
 #### b. If you are working on a <span style="background-color:#26AF06">**Mobile - Go to Chrome on your mobile**</span>& Download the latest version of Xdrip on to your Android Mobile Device <a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here to download</a> 
  <a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
-  <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/77c6a0b4-d813-448e-80fb-fb23b50a30f3" title="Nightly Build Mobile link"/></a><br>
-### 2. Try un-pairing your Bluetooth on mobile if it’s still paired to it.You will have to wait the 2 hour warm up time again doing this process.<br>
-  <iframe width="860" height="615" src="https://www.youtube.com/embed/YVy_qxeHpog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+  <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/77c6a0b4-d813-448e-80fb-fb23b50a30f3" title="Nightly Build Mobile link"/><br>
+### 2. Try un-pairing your Bluetooth on mobile if it’s still paired to it. You will have to wait the 2 hour warm up time again doing this process.<br>
+<a href="https://www.youtube.com/shorts/YVy_qxeHpog" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/9c735685-1022-4d57-9c77-d29ae9cd28fb" title="un-pairing your Bluetooth"/></a><br>
+  <br>
 #### a. Then go to your system status in xdrip and forget device and <span style="background-color:#26AF06">**restart the Collector**</span>
 or you can try with just restarting collector first to avoid the two hour warm up but does not always work this way!<br>
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/tUckHWhXiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<a href="https://www.youtube.com/watch?v=tUckHWhXiFQ&t=3s" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7bf12271-fcc8-4d2a-9b48-a5cf3bd78005" title="Xdrip - System Status"/></a>
+   <br>
 #### b. Now Re-boot your mobile <br>
 #### c. After re-booting, go back to <span style="background-color:#26AF06">**your System Status page**</span> and swipe left to your <span style="background-color:#26AF06">**Classic Status Page**</span> and wait for it to re-pair to your Bluetooth mobile again.<br><br>
-   
-  <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE?start=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+   <a href="https://www.youtube.com/watch?v=WfKZ2_Hv3nE" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/645ca02a-fc26-4ba7-bc88-ff492ef93bf0" title="Xdrip connection Problem fix"/></a>
+  <br>
    This can <span style="background-color:#26AF06">**take a while so be patient,**</span>
  but stay on the Classic page for it to do the process of connecting to your device.
    <br>
@@ -40,7 +48,14 @@ Best to <span style="background-color:#26AF06">**re-boot again before your resta
 <br>
 <center>
 ### Hope you find this video helpful and fixes your connection issues.<br><br></center>
-   
+   <br> 
+   [*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
+
+
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
 
 
 <a href="https://maundyrelief.org.uk/" target="_blank">
@@ -49,7 +64,7 @@ Best to <span style="background-color:#26AF06">**re-boot again before your resta
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
-</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 </center>
 
 

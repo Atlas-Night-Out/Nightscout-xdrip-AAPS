@@ -23,45 +23,63 @@ You need an Android phone.
 The documentation is only available in English for now.  
 You might find it easier to follow if you [switch your xDrip+ to English](Display-Settings.md#language) and read it using and automatic translation with Google.<br>
 
+### Settings
 
-## 1. [xdrip±  Hamburger Menu](../xdrip/settings.md#1-xdrip-hamburger-menu) <br>
+
+## 1. [xdrip±  Hamburger Menu](#1-xdrip--hamburger-menu) <br>
+
 To get to your settings click on the left Hamburger bar at the top.<br>
-<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu "/></a><br>
 
-## 2. [xdrip±  Settings Search](../xdrip/settings.md#2-xdrip-settings-search) <br>
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/81d21b59-6e7e-4360-afa8-01fc4569899e" title="left Hamburger Bar"/></a><br>
+
+## 2. [xdrip±  Settings Search](#2-xdrip--settings-search) <br>
+
 There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
-<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Setting main.jpg" title="Settings List"/><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/settings search1.jpg" title="Settings List"/></a></a><br>
 
-## 3. [xdrip±  Settings List ](../xdrip/settings.md#3-xdrip-settings-list) <br>
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3bb550ab-fe5c-45d8-a252-bdeb6b0470d8" title="Settings"/>&emsp;&emsp;<<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e74d841f-15fa-4dae-ac52-c26143f6cb6b" title="Settings Search"/></a><br>
+
+## 3. [xdrip±  Settings List ](#3-xdrip--settings-list) <br>
+
 There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
-<img width="250" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip Settings_list.jpg" title="Settings List"/><br>
 
-## 4. [xdrip±  Glucose Units](../xdrip/settings.md#3-xdrip-glucose-units) <br>
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6b458ee5-4384-46df-bdb7-6cfc919bc9da" title="Settings List"/></a><br>
+
+## 4. [xdrip±  Glucose Units](#4-xdrip--glucose-units) <br>
+
 In this menu you can select the units used by xDrip+ (mg/dl or mmol/l) and set high and low targets.
 These two targets will decide when the graph BG dots change colour above or below target.
 <br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Glucose Units.jpg" title="Glucose Units"/></a><br>
 
-## 5. [xdrip±  Alarm and Alerts](../xdrip/settings.md#4-xdrip-alarm-and-alerts)
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/13fee6cb-9cca-4bda-b96f-ad8068874055" title="Glucose Units"/></a><br>
 
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Alarm and Alerts.jpg" title="Alarm and Alerts"/></a><br>
+## 5. [xdrip±  Alarm and Alerts](#5-xdrip--alarm-and-alerts)
 
-## 6. [xdrip±  Hardware Data Source](../xdrip/xdrip%20-%20hardwaredatasource.md#xdrip-data-source)<br>
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/18e009cd-7fb3-4ec8-8b55-28a78422b1a9" title="Alarm and Alerts"/></a><br>
+
+## 6. [xdrip±  Hardware Data Source](#6-xdrip--hardware-data-source)<br>
+
 These settings vary on the data source selected.<br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Hardware Data Source.jpg" title="Hardware Data Source"/></a><br>
 
-## 7. [xdrip±  Auto Configure](../xdrip/settings.md#7-xdrip-auto-configure)<br>
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/877292b9-bee2-4d01-a285-8d9d2260d35d" title="Hardware Data Source
+"/></a>
+<br>
+
+## 7. [xdrip±  Auto Configure](#7-xdrip--auto-configure)<br>
+
 Auto configure helps you copy settings between two xDrip+ apps installed on different Mobiles.<br>
-<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Data Synce Auto Configure.jpg" title="Auto Configure"/></a><br>
+
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/4bcbaed4-6aec-41a8-9854-28f982118241" title="Data Synce Auto Configure"/></a>
+
+<br>
+
 
 ## To Be continued!<br>
 
-
-### My Typo, error, missing information or changes 
+####  missing information or changes 
 
 If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
+  :simple-facebook: <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the Discussions on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github :simple-github:</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <br>
 
 
 
@@ -69,10 +87,21 @@ If you have any issues or concerns please post your questions in the  <a href="h
 
 [*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
 
+<br>
 
 
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
 
 
+<a href="https://maundyrelief.org.uk/" target="_blank">
+ <center> <img width="300" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/>
+
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+ <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+</center>
 
 
 

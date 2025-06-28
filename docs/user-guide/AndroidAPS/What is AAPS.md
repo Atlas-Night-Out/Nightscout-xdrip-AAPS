@@ -117,14 +117,17 @@ A: No – it reduces extremes but isn’t perfect. User input (meals, exercise) 
 
 !!! note "💡 Final Thoughts"
 AAPS is a powerful, customizable alternative to commercial systems, but it demands technical effort, caution, and medical oversight. If you're comfortable with tech and want full control over your diabetes management, it could be life-changing!
-
-
 <br><br>
 
+<br>
+
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
 
 
-
-
+<center>
+[Please Subscribe to our Utube Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button } </center><br><br>
 
 
 
@@ -134,7 +137,7 @@ AAPS is a powerful, customizable alternative to commercial systems, but it deman
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/>
-</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> UK Wide Cycle Ride - Diabetes.uk</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"> Diabetes UK Month of Miles Challenge</a> for all of your Diabetes Needs!
+</a>               Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank">  :man_biking_tone1:UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 </center>
 
 
@@ -193,6 +196,17 @@ Adding an embeded video
 
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
+
+**Note:** a note is something that needs to be mentioned but is apart from the context.
+
+This is a note with a drop down! you have to keep the format the same for it to work!!!!!!!!!!
+??? info "Notes"
+
+    Before proceeding, ensure that you've downloaded and installed all required applications on their respective devices. Once everything is set up, familiarize yourself with each app’s interface and functionality. <br> 
+
+
+!!! Warning "Important Notice - This Video is a Old Way Watch with Caution"
+
 
 
 List
