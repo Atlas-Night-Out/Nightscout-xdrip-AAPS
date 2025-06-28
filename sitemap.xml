@@ -2,257 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Alexa/T1_Pro_Cube/Alexa%20Show%20Nightscout%20on%20Echo%20Show%2010%203rd%20Gen/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Alexa/T1_Pro_Cube/Myjade%20Aqara%20Cube%20T1%20Pro%20Setup%20for%20T1%E2%80%99s/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/AndroidAPS/AAPS%20Backup/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/AndroidAPS/AAPS%20Notifications/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/AndroidAPS/Adding%20More%20AAPS%20Custom%20watchfaces/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/AndroidAPS/Bolus%20in%20Watch%20for%20AAPS%20Bolus/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/AndroidAPS/Disclaimer%20and%20Warning/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/AndroidAPS/What%20is%20AAPS/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dexcom%20%26%20xDrip%2B%20Suggested%20Settings/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dex%20Share%20Followers/</loc>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dexcom%20G6_One/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dexcom%20xDrip%20Recommended%20Settings/</loc>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Starting%20a%20G7%20or%20One/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/content-tabs/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/xDrip-Advised-Settings%20-%20G6%2C%20G7%2CDexcom%20One%2COne%2B/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/admonitions/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/code-examples/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/content-tabs/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/diagram-examples/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/flowchart%20example/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Helpful/Deleting-your-cgm-remote-monitor/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Helpful/Helplinks/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Helpful/about/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/LinknLink/LinknLink/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Medtronic/Disclaimer%20and%20Warning/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Medtronic/New%20experimental%20version%20for%20CareLink%20reCAPTCHA/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Watches/BlueJay/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Watches/Compatible%20Watches/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Watches/TicWatch-Pro-3-side-load---xdrip/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Nightscout/Setting_up_Github_Account_part1/</loc>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Watches/Watches%20Intro/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Watches/Watches/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Compatible%20Watches/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Copy-settings/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Display-Settings/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/TicWatch-Pro-3-side-load---xdrip/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Settings/</loc>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Xdrip%20-%20Setting%20up%20Glucose%20Meters/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Xdrip%20Follower%20Setup/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Tidepool/</loc>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/Xdrip%20connection%20Problem%20fix/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/settings/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Backup%20-%20Import_Export_Settings/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Base/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Dexcom%20G6%20and%20Dexcom%20One/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Download/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Intro/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Noise/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Start%20Sensor/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20System%20Status/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20hardwaredatasource/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20install/</loc>
-         <lastmod>2025-06-10</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip-HamburgerMenu/</loc>
-         <lastmod>2025-06-10</lastmod>
+         <lastmod>2025-06-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
