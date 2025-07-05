@@ -14,6 +14,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+
   palette:
     # Dark Mode
     - scheme: slate
@@ -30,6 +31,23 @@ theme:
         name: Light mode
       primary: black
       accent: deep orange
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/T1AtlasNightOut
+    - icon: fontawesome/brands/github
+      link: https://github.com/Atlas-Night-Out/xdrip-Nightscout-AAPS
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1
+      
+      
+
+
+  copyright: Copyright &copy; 2025 D. Gall
+  generator: false
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -112,15 +130,7 @@ nav:
 
       
 
-extra:
-  social:
-    - icon: simple/youtube
-      link: https://studio.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
-  
-  copyright: Copyright &copy; 2024 D.Galloway
-  generator: false
+
 
 
 
