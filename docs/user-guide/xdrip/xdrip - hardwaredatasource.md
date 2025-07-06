@@ -1,11 +1,12 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by Tunasalad 2019- 2021-->
+
 <img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c0b76e2f-d6eb-4a2d-9adf-e58b966cbae7" title="Hardware Data Source Header"/></a>
 <br>
 
-### [Xdrip+ Settings](Settings.md#settings)
-### [xdrip± Specifications](Settings.md#specifications)
-### [xdrip± Hardware Data Source](Settings.md#6-xdrip--hardware-data-source) 
+### [Xdrip+ Settings](#xdrip-settings)
+### [xdrip± Specifications](#xdrip-specifications)
+### [xdrip± Common Hardware Data Source](#xdrip-common-hardware-data-source) 
 
 <img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/92a803ba-ebcb-48fb-af8a-e10c104544ab" title="Choose Data Source"/></a> If you don't see this on installing!<br>
 
@@ -32,6 +33,7 @@ You will need to pick a Hardware Data source to add into xDrip for your CGM to g
 
 
 ### Common Hardware Data Sources 
+<br>
 
 1. Dexcom G6/G7/1/1+ (Transmitter)<br>
 &emsp;&emsp; :octicons-dot-fill-16:  Directly connects to Dexcom G6/G7/1/1+  transmitters via Bluetooth (no need for a separate receiver).<br>

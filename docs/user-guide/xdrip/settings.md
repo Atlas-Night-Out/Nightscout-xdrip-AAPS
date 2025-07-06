@@ -1,9 +1,11 @@
 These docs are based on the [latest Nightly Build](https://github.com/NightscoutFoundation/xDrip/releases) Which you can download from there. (allow a few days for update to take effect).  
-**If you're already using xDrip+** and don't find a feature documented here and want it, you might need to [update](xdrip%20-%20install.md#pc-download) your xDrip+ app. <br> 
+**If you're already using xDrip+** and don't find a feature documented here and want it, you might need to 
+[update](./xdrip%20-%20Download.md) your xDrip+ app. <br> 
 
 See at the bottom of each page the version at which it was written, if you have an older version it might not include the feature.
 
 **If you're completely new to xDrip+** 
+
 and you want to install it for the first time continue to <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/xdrip/xdrip%20-%20Download/">Download xdrip</a> Or <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/xdrip/xdrip%20-%20install/">Install xdrip</a>
 </br>
 </br>
@@ -26,48 +28,72 @@ You might find it easier to follow if you [switch your xDrip+ to English](Displa
 ### Settings
 
 
-## 1. [xdrip±  Hamburger Menu](#1-xdrip--hamburger-menu) <br>
+## 1. [xdrip±  Hamburger Menu](#hamburger-menu) <br>
 
 To get to your settings click on the left Hamburger bar at the top.<br>
+<br>
+
+#### Hamburger Menu
 
 <img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/81d21b59-6e7e-4360-afa8-01fc4569899e" title="left Hamburger Bar"/></a><br>
 
-## 2. [xdrip±  Settings Search](#2-xdrip--settings-search) <br>
+## 2. [xdrip±  Settings Search](#settings-search) <br>
+<br>
 
 There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
+<br>
+
+#### Settings Search
 
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3bb550ab-fe5c-45d8-a252-bdeb6b0470d8" title="Settings"/>&emsp;&emsp;<<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e74d841f-15fa-4dae-ac52-c26143f6cb6b" title="Settings Search"/></a><br>
 
-## 3. [xdrip±  Settings List ](#3-xdrip--settings-list) <br>
+## 3. [xdrip±  Settings List ](#settings-list) <br>
+<br>
+
 
 There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
 
+#### Settings List
+
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6b458ee5-4384-46df-bdb7-6cfc919bc9da" title="Settings List"/></a><br>
 
-## 4. [xdrip±  Glucose Units](#4-xdrip--glucose-units) <br>
+## 4. [xdrip±  Glucose Units](#glucose-units) <br>
+<br>
 
 In this menu you can select the units used by xDrip+ (mg/dl or mmol/l) and set high and low targets.
 These two targets will decide when the graph BG dots change colour above or below target.
 <br>
 
+#### Glucose-Units
+
 <img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/13fee6cb-9cca-4bda-b96f-ad8068874055" title="Glucose Units"/></a><br>
 
-## 5. [xdrip±  Alarm and Alerts](#5-xdrip--alarm-and-alerts)
+## 5. [xdrip±  Alarm and Alerts](#alarm-and-alerts) <br>
+<br>
+
+#### Alarm-And-Alerts
 
 <img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/18e009cd-7fb3-4ec8-8b55-28a78422b1a9" title="Alarm and Alerts"/></a><br>
 
-## 6. [xdrip±  Hardware Data Source](#6-xdrip--hardware-data-source)<br>
+## 6. [xdrip±  Hardware Data Source](#hardware-data-source) <br>
+<br>
 
 These settings vary on the data source selected.<br>
+<br>
+
+#### Hardware-Data-Source
 
 <img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/877292b9-bee2-4d01-a285-8d9d2260d35d" title="Hardware Data Source
 "/></a>
 <br>
 
-## 7. [xdrip±  Auto Configure](#7-xdrip--auto-configure)<br>
+## 7. [xdrip±  Auto Configure](#auto-configure) <br>
+<br>
 
 Auto configure helps you copy settings between two xDrip+ apps installed on different Mobiles.<br>
+<br>
 
+#### Auto-Configure
 <img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/4bcbaed4-6aec-41a8-9854-28f982118241" title="Data Synce Auto Configure"/></a>
 
 <br>

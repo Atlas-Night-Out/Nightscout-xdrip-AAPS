@@ -5,14 +5,17 @@ docs made by D.Galloway 2019- 2023-->
 
 ### This menu allows you to modify many graphical aspect settings of xDrip+.
 
-## [xdrip+ Colour Settings](#xdrip-colour-settings-xdrip-colour-settings)
+## [xdrip+ Colour Settings](#colour-settings)
 
 First, Go to :material-menu: Hamburger icon in the top left  <img width="150" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/36b08519-d3c7-457b-b6c7-b3f6d2204591" title="Hamberger icon"/></a>
 </a><br> then Go to Xdrip+ Display Settings.<br><br>
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3bb550ab-fe5c-45d8-a252-bdeb6b0470d8" title="Settings"/></a>&emsp;&emsp;<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/31cf2652-3d52-4cda-b587-51cf3195fdce" title="xdrip display settings"/></a>
 <br><br>
 
-It will start with Xdrip+ Colour Settings in the list! so select it.<br><br>
+It will start with Xdrip+ Colour Settings in the list! so select it.<br>
+<br>
+
+#### colour-settings
 
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/97f25526-64a5-42c6-893d-fad3687b7ef9" title="xdrip colour settings1"/></a>
 <br><br>

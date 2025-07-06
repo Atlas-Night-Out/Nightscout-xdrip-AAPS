@@ -6,12 +6,16 @@ docs made by D.Galloway 2019- 2021-->
 
 ## PC Download
 
-<a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fcdd8a71-0a6c-4316-9f21-31669ed83c66" title="PC Download"/>
-</a><br>
+<a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank"> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fcdd8a71-0a6c-4316-9f21-31669ed83c66" title="PC Download"/></a> <br>
+<br>
 
+
+# Download Latest Version <br>
+
+<br>
 
 To Download latest version of Xdrip on a Pc , <a href="https://github.com/NightscoutFoundation/xDrip/releases " target="_blank" title="PC xdrip latest version">See Here</a>  and go to the  "Latest version". <br>
+
 From a "mobile" You will need to go to a web browser on your mobile and
  Download the latest version of Xdrip <a href="https://jamorham.github.io/#xdrip-plus" target="_blank" title="Mobile xdrip latest version">from Here</a> <br><br>
 
