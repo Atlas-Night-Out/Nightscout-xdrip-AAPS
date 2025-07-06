@@ -2,47 +2,47 @@ site_name: Nightscout - Xdrip - AndroidAPS
 site_url: https://atlas-night-out.github.io/Nightscout-xdrip-AAPS
 
 theme:
-  name: material
-  font:
-    text: Merriweather
-    code: Red Hat Mono
-  logo: assets/xDrip+logo.png
-  favicon: assets/favicon.ico
+    name: material
+    font:
+      text: Merriweather
+      code: Red Hat Mono
+    logo: assets/xDrip+logo.png
+    favicon: assets/favicon.ico
 
-  features:
-    - navigation.footer
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
+    features:
+      - navigation.footer
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.top
 
-  palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: white
-      accent: deep purple
+    palette:
+      # Dark Mode
+      - scheme: slate
+        toggle:
+          icon: material/weather-sunny
+          name: Dark mode
+        primary: white
+        accent: deep purple
 
-    # Light Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: black
-      accent: deep orange
+      # Light Mode
+      - scheme: default
+        toggle:
+          icon: material/weather-night
+          name: Light mode
+        primary: black
+        accent: deep orange
 
 plugins:
   - search
   - git-authors:
         exclude:
             - index.md
-  #- git-revision-date-localized:
-      #type: timeago
-      #timezone: Europe/london
-      #locale: en
-      #fallback_to_build_date: false
-      #enable_creation_date: true
+  - git-revision-date-localized:
+      type: timeago
+      timezone: Europe/london
+      locale: en
+      fallback_to_build_date: false
+      enable_creation_date: true
 
 extra:
   social:
