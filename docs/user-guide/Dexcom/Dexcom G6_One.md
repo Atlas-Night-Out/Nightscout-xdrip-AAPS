@@ -1,13 +1,11 @@
 
-<meta property="og:description" 
-  content="The Dexcom G6 is a continuous glucose monitoring (CGM) system designed for people with diabetes (Type 1, Type 2, or gestational). It provides real-time glucose readings without fingersticks* and helps users track trends, avoid highs/lows, and make better treatment decisions." />
-<meta property="og:determiner" content="the" />
-<meta property="og:locale" content="en_GB" />
-<meta property="og:image:type" content="image/jpeg" />
-<meta property="og:image:width" content="400" />
-<meta property="og:image:height" content="300" />
-<meta property="og:image:alt" content="We Need better Glue" />
-<meta property="og:image" content="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" />
+<meta property=”og:title” content=”Dexcom G6/One” />
+<meta property=”og:url” content=”https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/” />
+<meta property=”og:type” content=”website” />
+<meta property=” og:description” content=” The Dexcom G6 is a continuous glucose monitoring (CGM) system designed for people with diabetes (Type 1, Type 2, or gestational). It provides real-time glucose readings without fingersticks” />
+<meta property=”og:image” content=”https://github.com/user-attachments/assets/cb8931b9-d71a-468f-b2de-b861aa04f798” />
+
+
 
 
 
