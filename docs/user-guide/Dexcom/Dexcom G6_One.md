@@ -1,3 +1,23 @@
+<meta property="og:audio" content="https://example.com/bond/theme.mp3" />
+<meta property="og:description" 
+  content="Sean Connery found fame and fortune as the
+           suave, sophisticated British agent, James Bond." />
+<meta property="og:determiner" content="the" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:locale:alternate" content="fr_FR" />
+<meta property="og:locale:alternate" content="es_ES" />
+<meta property="og:site_name" content="IMDb" />
+<meta property="og:video" content="https://example.com/bond/trailer.swf" />
+<meta property="og:image" content="http://example.com/ogp.jpg" />
+<meta property="og:image:secure_url" content="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="A shiny red apple with a bite taken out" />
+<meta property="og:image" content="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" />
+<meta property="og:image" content="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" />
+
+
 
 ## There are 4 Elements to getting started with a Dexcom G6/One:
 ## Setup
