@@ -1,4 +1,6 @@
 
+
+
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <Center><img width="700" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e8f4cf96-e0a4-4787-ba8e-f9932541ff6a" title="Setting up GitHub Part 1"/></center></a>
