@@ -38,7 +38,7 @@ With Nightscout, Xdrip+ and Android APS
 
 <br>
 
- And a Big thank you to Chris from 🩸Blood 💦Sweat and ⚙ Gears      
+ And a Big thank you to Chris from 🩸Blood 💦 Sweat and ⚙ Gears      
 
 <br>
 <br>
