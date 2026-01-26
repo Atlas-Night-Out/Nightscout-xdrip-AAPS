@@ -83,7 +83,6 @@ In my own setup I have a mobile and a Tablet that share my levels beween each ot
 
 !!! Warning "Important Note - Follower having too much control:"
 
-<br>
 By default, the follower can upload treatments, calibrate, and stop the sensor on the master. Disable Accept Follower Actions to restrict these permissions located in Settings / xDrip+ Sync Settings <br>
 
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/cc2b0aa8-b940-41cf-8f3c-a554e6eda987" title="Accept Follower actions"/></a><br>
