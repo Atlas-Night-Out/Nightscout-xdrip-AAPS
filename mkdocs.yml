@@ -96,7 +96,8 @@ nav:
 - Xdrip :
     - 'Xdrip+ Intro': 'user-guide/xdrip/xdrip - Intro.md'
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
-    - 'Install': 'user-guide/xdrip/xdrip - install.md'        
+    - 'Install': 'user-guide/xdrip/xdrip - install.md'
+    - 'Xdrip - Follower': 'user-guide/xdrip/Xdrip Follower Setup.md'        
     - 'Connection issues – How to Fix': 'user-guide/xdrip/Xdrip connection Problem fix.md'
     - 'Hardware Data Source': 'user-guide/xdrip/xdrip - hardwaredatasource.md'
     - 'xDrip Settings': 'user-guide/xdrip/settings.md'

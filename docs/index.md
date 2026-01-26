@@ -28,13 +28,21 @@ I do not Drink<br>
 or Smoke :material-cigar-off: <br><br>
         I like to try to go out for a quite :material-bicycle: :man_biking_tone3: when the weather is good :material-weather-sunny:, and there is little wind to help on all of my Type 1 issues.<br>    
 <br>
-I have been living with type 1 diabetes for 54 years, starting with pork insulin known as Semilente. My mother had to care for me with the help of black and red lines, a challenging task. For over 16 years, my condition was poorly controlled as I relied on urine testing and later urine test strips before transitioning to blood glucose testers.<br>
+I have lived with type 1 diabetes for 56 years, starting with Semilente pork insulin. My mother cared for me using black and red lines, which was difficult. For over 16 years, my diabetes was poorly controlled using urine tests before switching to blood glucose meters.<br>
 
-I even used a device, a sort of "gun," to inject the blunt needles into me once a day. Through this repository and my video setups, I hope to continue contributing to improvements in our daily lives. <br>
+ I used a device like a "gun" to inject blunt needles daily in the 70's.<br>
 
+On this site and my videos, I aiming to help improve daily life for others and to get setup easier.<br>
 
+ I prefer the Omnipod Dash over the Omnipod 5, but doctors refuse to prescribe it, which I believe is wrong. Thanks to others who have sent me Pods, I avoid using over 200 needles a month due to high insulin resistance. <br>
 
-With Nightscout, Xdrip+ and Android APS
+I've used these app for over 8 years now, while my control remains challenging, these tools have helped me manage better. 
+
+Setting up can be tough, but once accustomed, it's a lifelong process. I hope this site is useful to you all. <br>
+
+With using Nightscout, Xdrip+, and Android APS. And other advancing things
+
+<br>
 
 <br>
 
