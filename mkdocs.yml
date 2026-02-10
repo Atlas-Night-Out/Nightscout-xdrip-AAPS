@@ -107,7 +107,7 @@ nav:
 
 - Nightscout :
     - 'Part 1 Setting up Github Account': 'user-guide/Nightscout/Setting_up_Github_Account_part1.md'
-    - 'Part 2 Setting up Heroku': 'user-guide/Nightscout/Setting_up_Heroku_Account_part2.md'
+    - 'Part 2 Setting up Heroku Account': 'user-guide/Nightscout/Setting_up_Heroku_Account_part2.md'
   
 
 -   Watches:
