@@ -107,12 +107,13 @@ nav:
 
 - Nightscout :
     - 'Part 1 Setting up Github Account': 'user-guide/Nightscout/Setting_up_Github_Account_part1.md'
+  
 
 -   Watches:
     - 'Watches Intro': 'user-guide/Watches/Watches Intro.md'
     - 'All Watch Types': 'user-guide/Watches/Watches.md'
 
--   T1's Smart Home:
+-   Home Assistant for T1's :
     
     - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Alexa Show Nightscout on Echo Show 10 3rd Gen.md'
     - 'My Jade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
