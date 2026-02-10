@@ -1,2 +1,2 @@
 # Nightscout-xdrip-AAPS
-A web site Docs site that will help with setups on Nightscout things, Xdrip+ and AAPS 
+A web site Docs site that will help with setups on Nightscout things, Xdrip+ and AAPS and Home Assistant in 2026!
