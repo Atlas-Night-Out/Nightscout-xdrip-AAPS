@@ -5,7 +5,7 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br> 
-<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6bce7a3f-a537-4204-a563-b1b672069355" title="Robot face Heroku Account"/></a>
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6bce7a3f-a537-4204-a563-b1b672069355" title="Robot face Heroku Account"/></a>
 
 
 ## **Part 2 Setting up a Heroku Account for Nightscout**<br><br>
@@ -84,9 +84,13 @@ First Name, last name, email address
 
 **********************************************************************************************
 
-<br>
+<br><br>
 
-<br>
+## <center> If you have any issues or concerns please visit: </center> 
+<font size="4"><center>
+:simple-discord:<a href=" https://discord.gg/Gb5SF7jR" target="_blank" title="Discord"> Discord</a>&emsp; :simple-facebook: <a href=" https://www.facebook.com/groups/cgminthecloud" target="_blank" title="CGM in the Cloud on Facebook"> CGM in the Cloud</a> 🩸 <a href=" https://github.com/nightscout/AndroidAPS/issues" target="_blank" title="Nightscout "> Nightscout</a>&emsp; :simple-github:<a href=" https://github.com/nightscout/AndroidAPS?tab=readme-ov-file" target="_blank" title="Github AAPS"> Github AAPS</a> </center></font>
+<br><br>
+
 
 [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
@@ -94,12 +98,10 @@ First Name, last name, email address
 <br>
 <a href="https://maundyrelief.org.uk/" target="_blank">
   <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
-<br>
+<br><br>
 
-<br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
-
 
 
 
@@ -130,6 +132,17 @@ adding 	Green Hightligher!!!!!!!!	with bold too
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
 
 
+
+
+***************************************************************************************
+Adding a copy code block
+
+``` { .yaml .copy }
+mongodb+srv://nightkai:password@cluster0.xxxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+```
+
+
+**********************************************************************************************
 
 
 Adding a image
@@ -184,6 +197,22 @@ Table
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+
+************************************************************
+adding a space
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+******************************************************************
+
+
+
+
+
+
+
 
 
 -->

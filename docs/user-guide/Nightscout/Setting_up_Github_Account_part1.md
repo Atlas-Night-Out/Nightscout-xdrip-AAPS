@@ -126,9 +126,16 @@ with other devices and setups too! You do this at your own risk as my instructio
 # <center>Part 2: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Nightscout/Setting_up_Heroku_Account_part2/ " target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
 <br>
 
- <br>
+ <br><br>
+*******************************************************************************************************
 
-<br>
+
+
+## <center> If you have any issues or concerns please visit: </center> 
+<font size="4"><center>
+:simple-discord:<a href=" https://discord.gg/Gb5SF7jR" target="_blank" title="Discord"> Discord</a>&emsp; :simple-facebook: <a href=" https://www.facebook.com/groups/cgminthecloud" target="_blank" title="CGM in the Cloud on Facebook"> CGM in the Cloud</a> 🩸 <a href=" https://github.com/nightscout/AndroidAPS/issues" target="_blank" title="Nightscout "> Nightscout</a>&emsp; :simple-github:<a href=" https://github.com/nightscout/AndroidAPS?tab=readme-ov-file" target="_blank" title="Github AAPS"> Github AAPS</a> </center></font>
+<br><br>
+
 
 [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
@@ -136,9 +143,8 @@ with other devices and setups too! You do this at your own risk as my instructio
 <br>
 <a href="https://maundyrelief.org.uk/" target="_blank">
   <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
-<br>
+<br><br>
 
-<br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 
@@ -165,6 +171,7 @@ adding 	Yellow Hightligher!!!!!!!!	with bold too
 
 
 adding 	Green Hightligher!!!!!!!!	with bold too
+
 <span style="background-color:#26AF06">**Routines**</span>
 
 <a>
@@ -311,9 +318,28 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 <a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
 		
-		
+****************************************************************************************
+
 adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
+
+
+adding 	Green Hightligher!!!!!!!!	with bold too
+
+<span style="background-color:#26AF06">**Later**</span>
+
+******************************************************************************************
+
+
+***************************************************************************************
+Adding a copy code block
+
+``` { .yaml .copy }
+mongodb+srv://nightkai:password@cluster0.xxxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+```
+
+
+**********************************************************************************************
 
 
 link
@@ -424,29 +450,19 @@ Table
 
 Video in a box border!
 
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
- <iframe id="video3" width="860" height="515" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-*****************************************************
-Warning Note<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
-</tr>
-</tbody>
-</table>
+
 <img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/sadface.png" Sad day"/><br>
+
+
+
+
+************************************************************
+adding a space
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+******************************************************************
+
 -->
 
 
