@@ -5,8 +5,8 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br><br><br>
 
 
-<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/9e91983d-cde2-4a54-988c-73cdb72c3ea2" title="Fork and Deploy cgm remote monitory Part 4"/></a>
-<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Fork and Deploy cgm remote monitory Part 4/Fork_and_Deploy_cgm_remote_monitory_Part_4t_860x462.jpg" Setting up Atlas Part 3"/>
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/9e91983d-cde2-4a54-988c-73cdb72c3ea2" title="Fork and Deploy cgm remote monitory Part 4"/></a><br>
+
 
 ## **Part 4 - Fork and Deploy cgm remote monitory  **<br><br>
 ## If you would like to follow these instructions with video then see below other wise continue step by step below<br>
