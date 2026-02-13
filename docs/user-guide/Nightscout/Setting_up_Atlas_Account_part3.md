@@ -207,6 +207,15 @@ function myFunction() {
 !!!Note "Note! "  
     There are no < and > characters in the final string, neither for password nor for the database name. You need to remove them!<br><br>
 
+#### You now need to add the Connection String you just made into your Heroku settings Reveal Config Vars.
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/8afc4cd5-5ab1-46b1-a9c8-5eb0b1cb9718" title="Heroku Mongo Config Vars"/></a><br>
+
+#### Scroll down where you will need to edit the MONGODB_URI and past in your Connection String Code, and then restart all dynos.
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/ffcf97f5-7bcf-4c78-9e9a-942368c6e9e9" title="Heroku Mongo URI 2"/></a>
+
+
 <br>
 
 ## <center>Now we need to do <br></center>

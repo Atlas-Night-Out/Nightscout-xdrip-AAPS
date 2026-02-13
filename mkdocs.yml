@@ -109,13 +109,14 @@ nav:
     - 'Part 1 Setting up Github Account': 'user-guide/Nightscout/Setting_up_Github_Account_part1.md'
     - 'Part 2 Setting up Heroku Account': 'user-guide/Nightscout/Setting_up_Heroku_Account_part2.md'
     - 'Part 3 Setting up Atlas Account': 'user-guide/Nightscout/Setting_up_Atlas_Account_part3.md'
+    - 'Part 4 Fork and Deploy cgm remote monitory': 'user-guide/Nightscout/Part 4 - Fork and Deploy cgm remote monitory.md'
   
 
 -   Watches:
     - 'Watches Intro': 'user-guide/Watches/Watches Intro.md'
     - 'All Watch Types': 'user-guide/Watches/Watches.md'
 
--   Home Assistant for T1's :
+-   T1D's Home Assistant :
     
     - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Alexa Show Nightscout on Echo Show 10 3rd Gen.md'
     - 'My Jade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
