@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Diagram-Examples/diagram-examples/">
+        <link rel="canonical" href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/LinknLink/LinknLink/">
       
       
       
@@ -18,7 +18,7 @@
     
     
       
-        <title>CGM to Pump and watch Diagram Example - Nightscout - Xdrip - AndroidAPS</title>
+        <title>LinknLink - Nightscout - Xdrip - AndroidAPS</title>
       
     
     
@@ -72,7 +72,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#cgm-to-pump-and-watch-diagram-example" class="md-skip">
+        <a href="#intro" class="md-skip">
           Skip to content
         </a>
       
@@ -107,7 +107,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              CGM to Pump and watch Diagram Example
+              LinknLink
             
           </span>
         </div>
@@ -1546,8 +1546,6 @@
   
   
   
-    
-  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -1556,35 +1554,38 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#flowcharts" class="md-nav__link">
+  <a href="#intro" class="md-nav__link">
     <span class="md-ellipsis">
-      Flowcharts
+      Intro
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#sequence-diagrams" class="md-nav__link">
+  <a href="#items-you-are-going-to-need" class="md-nav__link">
     <span class="md-ellipsis">
-      Sequence Diagrams
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Sequence Diagrams">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#code-blocks-in-content-tabs" class="md-nav__link">
-    <span class="md-ellipsis">
-      Code Blocks in Content Tabs
+      Items you are going to need
     </span>
   </a>
   
 </li>
-        
-      </ul>
-    </nav>
+      
+        <li class="md-nav__item">
+  <a href="#linknlink-mobile-app" class="md-nav__link">
+    <span class="md-ellipsis">
+      LinknLink Mobile App
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#more-information-will-be-coming-soon" class="md-nav__link">
+    <span class="md-ellipsis">
+      More Information will be Coming soon!
+    </span>
+  </a>
   
 </li>
       
@@ -1604,113 +1605,324 @@
 
 
 
-<h1 id="cgm-to-pump-and-watch-diagram-example">CGM to Pump and watch Diagram Example</h1>
-<h2 id="flowcharts">Flowcharts</h2>
-<pre class="mermaid"><code>graph LR
-  A[Start] --&gt; B{Xdrip+};
-  B --&gt;|Yes| C[Investigate...];
-  C --&gt; D[Debug];
-  D --&gt; B;
-  B ----&gt;|No| E[Success!];</code></pre>
-<pre class="mermaid"><code>graph LR
-  A[CGM] --&gt; B{xDrip+};
-  A[CGM] &lt;--&gt; I{Dexcom G6 APP};
-  H[PDM] &lt;--&gt; I{Dexcom G6 APP};
-  A[CGM] --&gt; H{PDM};
-  A[CGM] --&gt; C[Nightscout];
-  A[CGM] --&gt; D[AAPS];
-  B &lt;--&gt;|to| C[Nightscout];
-  C &lt;--&gt; D[AAPS];
-  F --&gt; D[AAPS];
-  D --&gt; g[Watch];
-  B &lt;--&gt; g[Watch];
-  F &lt;--&gt; g[Watch];
-  D &lt;--&gt; B;
-  B ----&gt;|will| E[Succeed !];
-  F[Pump - Pod] ----&gt;|will| E[Succeed !];
-  F[Pump - Pod] ----&gt;H[PDM];
-</code></pre>
-<h2 id="sequence-diagrams">Sequence Diagrams</h2>
-<pre class="mermaid"><code>sequenceDiagram
-  autonumber
-  Server-&gt;&gt;Terminal: Send request
-  loop Health
-      Terminal-&gt;&gt;Terminal: Check for health
-  end
-  Note right of Terminal: System online
-  Terminal--&gt;&gt;Server: Everything is OK
-  Terminal-&gt;&gt;Database: Request customer data
-  Database--&gt;&gt;Terminal: Customer data</code></pre>
-<div class="tabbed-set tabbed-alternate" data-tabs="1:1"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">🔄 AAPS in Action</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block"></div>
-</div>
-</div>
-<pre class="mermaid"><code>graph LR
-  A[CGM] --&gt; |Bluetooth| B[AAPS App];
-  B --&gt;|Commands| C[Insulin Pump];
-  C --&gt; D[Adjust Insulin];
-  B --&gt; E[Nightscout Cloud];
-  E --&gt; F[Caregiver/Monitor];</code></pre>
-<div class="tabbed-set tabbed-alternate" data-tabs="2:1"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">mermaid</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block"></div>
-</div>
-</div>
-<div class="language-js highlight"><table class="highlighttable"><tr><th colspan="2" class="filename"><span class="filename">code-examples.md</span></th></tr><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-0-1">1</a></span>
-<span class="normal"><a href="#__codelineno-0-2">2</a></span>
-<span class="normal"><a href="#__codelineno-0-3">3</a></span>
-<span class="normal"><a href="#__codelineno-0-4">4</a></span>
-<span class="normal"><a href="#__codelineno-0-5">5</a></span>
-<span class="normal"><a href="#__codelineno-0-6">6</a></span></pre></div></td><td class="code"><div><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1"></a><span class="nx">graph</span><span class="w"> </span><span class="nx">LR</span>
-</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2"></a><span class="hll"><span class="w">  </span><span class="nx">A</span><span class="p">[</span><span class="nx">CGM</span><span class="p">]</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="o">|</span><span class="nx">Bluetooth</span><span class="o">|</span><span class="w"> </span><span class="nx">B</span><span class="p">[</span><span class="nx">AAPS</span><span class="w"> </span><span class="nx">App</span><span class="p">];</span>
-</span></span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3"></a><span class="hll"><span class="w">  </span><span class="nx">B</span><span class="w"> </span><span class="o">--&gt;|</span><span class="nx">Commands</span><span class="o">|</span><span class="w"> </span><span class="nx">C</span><span class="p">[</span><span class="nx">Insulin</span><span class="w"> </span><span class="nx">Pump</span><span class="p">];</span>
-</span></span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4"></a><span class="hll"><span class="w">  </span><span class="nx">C</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">D</span><span class="p">[</span><span class="nx">Adjust</span><span class="w"> </span><span class="nx">Insulin</span><span class="p">];</span>
-</span></span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5"></a><span class="w">  </span><span class="nx">B</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">E</span><span class="p">[</span><span class="nx">Nightscout</span><span class="w"> </span><span class="nx">Cloud</span><span class="p">];</span>
-</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6"></a><span class="w">  </span><span class="nx">E</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">F</span><span class="p">[</span><span class="nx">Caregiver</span><span class="o">/</span><span class="nx">Monitor</span><span class="p">];</span>
-</span></code></pre></div></td></tr></table></div>
-<div class="tabbed-set tabbed-alternate" data-tabs="3:1"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><div class="tabbed-labels"><label for="__tabbed_3_1">mermaid</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block"></div>
-</div>
-</div>
-<div class="language-js highlight"><span class="filename">code</span><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="nx">graph</span><span class="w"> </span><span class="nx">LR</span>
-</span><span id="__span-1-2"><a id="__codelineno-1-2" name="__codelineno-1-2" href="#__codelineno-1-2"></a><span class="w">  </span><span class="nx">A</span><span class="p">[</span><span class="nx">CGM</span><span class="p">]</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="o">|</span><span class="nx">Bluetooth</span><span class="o">|</span><span class="w"> </span><span class="nx">B</span><span class="p">[</span><span class="nx">AAPS</span><span class="w"> </span><span class="nx">App</span><span class="p">];</span>
-</span><span id="__span-1-3"><a id="__codelineno-1-3" name="__codelineno-1-3" href="#__codelineno-1-3"></a><span class="w">  </span><span class="nx">B</span><span class="w"> </span><span class="o">--&gt;|</span><span class="nx">Commands</span><span class="o">|</span><span class="w"> </span><span class="nx">C</span><span class="p">[</span><span class="nx">Insulin</span><span class="w"> </span><span class="nx">Pump</span><span class="p">];</span>
-</span><span id="__span-1-4"><a id="__codelineno-1-4" name="__codelineno-1-4" href="#__codelineno-1-4"></a><span class="w">  </span><span class="nx">C</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">D</span><span class="p">[</span><span class="nx">Adjust</span><span class="w"> </span><span class="nx">Insulin</span><span class="p">];</span>
-</span><span id="__span-1-5"><a id="__codelineno-1-5" name="__codelineno-1-5" href="#__codelineno-1-5"></a><span class="w">  </span><span class="nx">B</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">E</span><span class="p">[</span><span class="nx">Nightscout</span><span class="w"> </span><span class="nx">Cloud</span><span class="p">];</span>
-</span><span id="__span-1-6"><a id="__codelineno-1-6" name="__codelineno-1-6" href="#__codelineno-1-6"></a><span class="w">  </span><span class="nx">E</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">F</span><span class="p">[</span><span class="nx">Caregiver</span><span class="o">/</span><span class="nx">Monitor</span><span class="p">];</span>
-</span></code></pre></div>
-<div class="tabbed-set tabbed-alternate" data-tabs="4:5"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio" /><input id="__tabbed_4_2" name="__tabbed_4" type="radio" /><input id="__tabbed_4_3" name="__tabbed_4" type="radio" /><input id="__tabbed_4_4" name="__tabbed_4" type="radio" /><input id="__tabbed_4_5" name="__tabbed_4" type="radio" /><div class="tabbed-labels"><label for="__tabbed_4_1">Sensor Applicator</label><label for="__tabbed_4_2">Sensor</label><label for="__tabbed_4_3">Transmitter </label><label for="__tabbed_4_4">Display</label><label for="__tabbed_4_5">mermaid</label></div>
-<div class="tabbed-content">
-<div class="tabbed-block">
-<p><img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1ba943f-9cfc-4fdf-bbc1-c20955823984" title="Sensor Applicator"/></a></p>
-</div>
-<div class="tabbed-block">
-<p><img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e1682efa-b4e4-4874-93fe-1caa106f24b9" title="Sensor"/></a></p>
-</div>
-<div class="tabbed-block">
-<p><img width="300" height="Auto" border="0" align="left"  src="https://github.com/user-attachments/assets/be60b7f9-58bb-4a4f-8775-2dd0c851a6fb" title="Transmitter"/><center></a><img width="260" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f331bf48-3ad1-456b-8484-503c37d780a1" title="Transmitter Serial "/></center></a></p>
-<h3 id="code-blocks-in-content-tabs">Code Blocks in Content Tabs</h3>
-</div>
-<div class="tabbed-block">
-<p><img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/962a2daf-fb71-4133-b434-b97f0ce77cc0" title="Displays"/></a></p>
-</div>
-<div class="tabbed-block"></div>
-</div>
-</div>
-<div class="language-js highlight"><table class="highlighttable"><tr><th colspan="2" class="filename"><span class="filename">code</span></th></tr><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal"><a href="#__codelineno-2-1">1</a></span>
-<span class="normal"><a href="#__codelineno-2-2">2</a></span>
-<span class="normal"><a href="#__codelineno-2-3">3</a></span>
-<span class="normal"><a href="#__codelineno-2-4">4</a></span>
-<span class="normal"><a href="#__codelineno-2-5">5</a></span>
-<span class="normal"><a href="#__codelineno-2-6">6</a></span></pre></div></td><td class="code"><div><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1"></a><span class="nx">graph</span><span class="w"> </span><span class="nx">LR</span>
-</span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2"></a><span class="hll"><span class="w">  </span><span class="nx">A</span><span class="p">[</span><span class="nx">CGM</span><span class="p">]</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="o">|</span><span class="nx">Bluetooth</span><span class="o">|</span><span class="w"> </span><span class="nx">B</span><span class="p">[</span><span class="nx">AAPS</span><span class="w"> </span><span class="nx">App</span><span class="p">];</span>
-</span></span><span id="__span-2-3"><a id="__codelineno-2-3" name="__codelineno-2-3"></a><span class="hll"><span class="w">  </span><span class="nx">B</span><span class="w"> </span><span class="o">--&gt;|</span><span class="nx">Commands</span><span class="o">|</span><span class="w"> </span><span class="nx">C</span><span class="p">[</span><span class="nx">Insulin</span><span class="w"> </span><span class="nx">Pump</span><span class="p">];</span>
-</span></span><span id="__span-2-4"><a id="__codelineno-2-4" name="__codelineno-2-4"></a><span class="hll"><span class="w">  </span><span class="nx">C</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">D</span><span class="p">[</span><span class="nx">Adjust</span><span class="w"> </span><span class="nx">Insulin</span><span class="p">];</span>
-</span></span><span id="__span-2-5"><a id="__codelineno-2-5" name="__codelineno-2-5"></a><span class="w">  </span><span class="nx">B</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">E</span><span class="p">[</span><span class="nx">Nightscout</span><span class="w"> </span><span class="nx">Cloud</span><span class="p">];</span>
-</span><span id="__span-2-6"><a id="__codelineno-2-6" name="__codelineno-2-6"></a><span class="w">  </span><span class="nx">E</span><span class="w"> </span><span class="o">--&gt;</span><span class="w"> </span><span class="nx">F</span><span class="p">[</span><span class="nx">Caregiver</span><span class="o">/</span><span class="nx">Monitor</span><span class="p">];</span>
-</span></code></pre></div></td></tr></table></div>
+  <h1>LinknLink</h1>
+
+<center><img width="700" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/LinknLink/linknlink all in one Intelligent super gateway.jpg" title="LinknLink iSG: The Next Generation All-in-One Super Smart Home Gateway"/></a></center>
+<p><br></p>
+<center><iframe width="660" height="415" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<p><br></p>
+<h2 id="intro"><span style="background-color: #00D8FF"><strong>Intro</strong></span></h2>
+<p>Full Protocol Support and Ease of Use
+ iSG is a favourably compatible smart home gateway supporting all <a href="https://www.dfrobot.com/blog-13453.html" target="_blank" title="Global IoT Protocols">Global IoT Protocols</a>, including Wi-Fi, Matter, zigbee,z-wave, IR, RF, BLE </p>
+<p>Zigbee and z-wave are supported via USB Dongle, IR and RF are supported by eHub), enabling almost all smart home devices connected and managed through iSG regardless of brand or protocol.</p>
+<p><a href="https://www.dfrobot.com/blog-13453.html" target="_blank" title="Global IoT Protocols">Global IoT Protocols</a> 
+<br></p>
+<p><br></p>
+<h2 id="items-you-are-going-to-need"><span style="background-color: #00D8FF"><strong>Items you are going to need</strong></span></h2>
+<ol>
+<li><a href="https://shop.linknlink.com/products/isg-the-next-generation-all-in-one-super-smart-home-gateway" target="_blank" title="LinknLink iSG">LinknLink iSG</a>  (The Next Generation All-in-One Super Smart Home Gateway)</li>
+<li><a href="https://www.amazon.co.uk/gp/product/B078YR6PPL/ref=ox_sc_saved_image_1?smid=A1HSXKK2MQMA8M&th=1" target="_blank" title="Home Hub Mount">Home Hub Mount</a>  Will Only need if you are going to fix to a wall!</li>
+<li><a href="https://www.amazon.co.uk/SuperSpeed-Transmission-Charging-Powered-Extension/dp/B01FS9Q01K/ref=sr_1_3?crid=367SJ3DEU1GRX&dib=eyJ2IjoiMSJ9.nEwL5gJROrf4onr5xlphp1RHdiHcuXesAqJe9WLlHNWv2Isdnzm-2NKLj_eE_lJSvcr7JzAvNxupSnCEIgIXAIJayUQVkPIB0MOPAGMEIKBs1-bn136QKDP5PPB9_0-qA3bu13uR32_ar6aQTUnY-Fz866n11so9KoBAl4NyHxM_hEs2-FgbwWwyazXXv6G-ERwe6BpoXkpZckB37n6CohtylJmW2955aRjtFydykRk.jTe27aJxOzvvgUMIBTfOTF1prOEV6tdCdb4AXKxRHmM&dib_tag=se&keywords=atolla+Powered+USB+3.0+Hub+20W+%2C+4+Multi+USB+Data+Ports+Hub+splitter+with+Individual+On%2FOff+Switches%2B1+USB+Smart+Charging+port+with+5V%2F4A+Power+Adapter+USB+Extension+for+MacBook%2C+Mac+Pro+and+More.&qid=1713106157&sprefix=atolla+powered+usb+3.0+hub+20w+4+multi+usb+data+ports+hub+splitter+with+individual+on%2Foff+switches%2B1+usb+smart+charging+port+with+5v%2F4a+power+adapter+usb+extension+for+macbook+mac+pro+and+more.%2Caps%2C160&sr=8-3" target="_blank" title="Atolla 4 ports USB 3.0 Hub SuperSpeed Data Transmission with On Off Switch">Atolla 4 ports USB 3.0 Hub SuperSpeed Data Transmission with On Off Switch + 1 Charging Port with 15W(5V/3A) Powered Supply Adapter and 1M USB 3 Extension Cable</a> If you are needing to extend the USB lead, to power it on.</li>
+<li><a href="https://www.amazon.co.uk/dp/B088GQB9GQ?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="UGREEN USB to USB C Cable Right Angle 3A 90 Degree USB C Charger Cable">UGREEN USB to USB C Cable Right Angle 3A 90 Degree USB C Charger Cable Fast Charging Compatible with iPhone 15 Pro Max Galaxy S24 S23 Ultra A53 Pixel 7 6 Redmi Note 11 Huawei P60 P50 Pro (3M)
+ </a> </li>
+</ol>
+<h2 id="linknlink-mobile-app"><span style="background-color: #00D8FF"><strong>LinknLink Mobile App</strong></span></h2>
+<p>Which you can get from the Google PlayStore<br></p>
+<center><a href="https://play.google.com/store/search?q=linknlink&c=apps" target="_blank">
+  <img width="700" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
+</a></center>
+<p><br></p>
+<h2 id="more-information-will-be-coming-soon"><strong>More Information will be Coming soon!</strong></h2>
+<p>If You need any further help please reach out to us on are <a href="https://www.facebook.com/groups/linknlinkisg/" target="_blank" title="Facebook">Facebook Group</a><br><br></p>
+<p></br></p>
+<!--  
+  ******************************************************************************************************************
+  mkdocs.yml    # The configuration file.
+    docs/
+    index.md  # The documentation homepage.
+       ...       # Other markdown pages, images and other files.
+
+        *************************************************************************
+        center text**
+        ## <center>Now Do  </center><br>
+
+        *************************************************************
+
+
+<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>      
+
+
+adding  Yellow Hightligher!!!!!!!!  with bold too
+<span style="background-color: #FFFF00">**Marked text**</span>
+
+adding  Blue Hightligher!!!!!!!!    with bold too
+<span style="background-color: #3180C2">**Marked text**</span>
+
+
+<a>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>  
+
+
+
+
+Adding a image with external link
+<a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
+</a><br>
+******************************
+Adding a image with external link in the center!
+<center><a href="https://play.google.com/store/search?q=linknlink&c=apps" target="_blank">
+  <img width="700" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
+</a></center><br>
+
+
+
+
+just a link
+***************
+
+<a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Try Free">See Here</a> 
+
+********************************
+link to another page!
+*************************
+
+[Nightscout](../../Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout)
+
+********************************************
+
+Adding Video
+
+<iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Adding an embeded video
+<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Note
+**Note:** a note is something that needs to be mentioned but is apart from the context.
+
+
+List
+This is a regular paragraph.
+
+Paragraph:
+
+1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
+  and **click** Start Free
+ <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
+   2. Sub item two
+   3. Sub item three
+2. Item two
+
+
+
+font size
+<font size="4">
+
+</font>
+
+link
+<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
+
+
+Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+Video in a box border!
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
+ <iframe id="video3" width="860" height="515" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
+</tr>
+</tbody>
+</table>
+*****************************************************
+Warning Note<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
+</tr>
+</tbody>
+</table>
+
+-->
+
+<!--  
+  ******************************************************************************************************************
+  mkdocs.yml    # The configuration file.
+    docs/
+    index.md  # The documentation homepage.
+       ...       # Other markdown pages, images and other files.
+
+        ****************************************************************
+
+[In the the video above](../xdrip/Xdrip%20-%20Setting%20up%20Glucose%20Meters.md#video-instructions)
+
+
+
+
+
+!!!warning 
+    Do not use CONTOUR DIABETES app, when using xdrip you can only have one App running!
+   <br><br>
+
+
+
+   !!!info 
+    Do not use CONTOUR DIABETES app, when using xdrip you can only have one App running!
+   <br><br>
+
+
+
+<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>      
+
+
+adding  Yellow Hightligher!!!!!!!!  with bold too
+<span style="background-color: #FFFF00">**Marked text**</span>
+
+
+link
+
+<a href=" https://github.com/" target="_blank" title="Github">Click Here</a> 
+
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/warning_sign.png" title="Update Tool"/></a>   
+
+<img width="30" height="30" src="/img/Fork and Deploy cgm remote monitory Part 4/clipart2068155.png">
+
+Adding a image with link
+<a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
+</a><br>
+
+
+Adding Video
+
+<iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Adding an embeded video
+<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Note
+**Note:** a note is something that needs to be mentioned but is apart from the context.
+
+
+List
+This is a regular paragraph.
+
+Paragraph:
+
+1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
+  and **click** Start Free
+ <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
+   2. Sub item two
+   3. Sub item three
+2. Item two
+
+
+
+font size
+<font size="4">
+
+</font>
+
+link
+<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
+
+*******************************************************************************************************************************
+*******************************
+orange table
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">If you’re on Heroku and have Automatic Deploys enabled, you’re done!<br>
+ If you don’t have Automatic Deploys on yet, or aren’t sure, run through these steps below!</span></td>
+</tr>
+</tbody>
+</table>
+***************************************
+red warning table
+***************************
+<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
+</tr>
+</tbody>
+</table>
+*********************************
+Blue Note
+******************************
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+</tr>
+</tbody>
+</table>
+
+
+
+Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+Video in a box border!
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
+ <iframe id="video3" width="860" height="515" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
+</tr>
+</tbody>
+</table>
+*****************************************************
+Warning Note<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
+</tr>
+</tbody>
+</table>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/sadface.png" Sad day"/><br>
+-->
 
 
 
@@ -1733,7 +1945,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="June 3, 2025 23:20:47 BST"><span class="timeago" datetime="2025-06-03T23:20:47+01:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="June 3, 2025 23:20:47 BST">2025-06-03</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="February 13, 2026 00:53:23 GMT"><span class="timeago" datetime="2026-02-13T00:53:23+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="February 13, 2026 00:53:23 GMT">2026-02-13</span>
   </span>
 
     
@@ -1743,7 +1955,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="February 20, 2025 19:08:03 GMT"><span class="timeago" datetime="2025-02-20T19:08:03+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="February 20, 2025 19:08:03 GMT">2025-02-20</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="May 29, 2025 20:03:33 BST"><span class="timeago" datetime="2025-05-29T20:03:33+01:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="May 29, 2025 20:03:33 BST">2025-05-29</span>
   </span>
 
     
