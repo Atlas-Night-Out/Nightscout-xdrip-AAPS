@@ -1,4 +1,4 @@
-<!-- docs made by D.Galloway 2019 - 2026 -->
+<!-- docs made by D.Galloway 2019 - 2026 2-->
 
 # Adding Other AAPS Custom Watch Faces
 
@@ -34,7 +34,7 @@
 | [![AAPS](../../../img/AAPS/watchfaces/AAPS-CustomWatchface.png)<br>**AAPS**](../../../img/AAPS/watchfaces/AAPS.zip) | [![Gota](../../../img/AAPS/watchfaces/Gota-CustomWatchface.png)<br>**Gota**](../../../img/AAPS/watchfaces/Gota_v2.4.zip) | [![Cockpit](../../../img/AAPS/watchfaces/Cockpit-CustomWatchface.png)<br>**Cockpit**](../../../img/AAPS/watchfaces/Cockpit.zip) | [![SteamPunk](../../../img/AAPS/watchfaces/SteamPunk-CustomWatchface.png)<br>**SteamPunk**](../../../img/AAPS/watchfaces/SteamPunk.zip) |
 | [![AIMICO](../../../img/AAPS/watchfaces/AIMICO-V1_1-CustomWatchface.png)<br>**AIMICO**](../../../img/AAPS/watchfaces/AIMICO-V1_1.zip) | [![AAPS_V2](../../../img/AAPS/watchfaces/AAPS_V2-CustomWatchface.png)<br>**AAPS_V2**](../../../img/AAPS/watchfaces/AAPS_V2.zip) | [![Digital G-Watch](../../../img/AAPS/watchfaces/Digital_G-Watch-CustomWatchface.png)<br>**Digital G-Watch**](../../../img/AAPS/watchfaces/Digital_G-Watch.zip) | [![SimpleDigital](../../../img/AAPS/watchfaces/SimpleDigital_v1.3-CustomWatchface.png)<br>**SimpleDigital**](../../../img/AAPS/watchfaces/SimpleDigital_v1.3.zip) |
 | [![Gears](../../../img/AAPS/watchfaces/Gears-CustomWatchface.jpg)<br>**Gears**](../../../img/AAPS/watchfaces/Gears.zip) | [![Analog G-Watch](../../../img/AAPS/watchfaces/Analog_G-Watch-CustomWatchface.png)<br>**Analog G-Watch**](../../../img/AAPS/watchfaces/Analog_G-Watch.zip) | [![LuckyLoopKoeln](../../../img/AAPS/watchfaces/LuckyLoopKoeln-CustomWatchface.png)<br>**LuckyLoopKoeln**](../../../img/AAPS/watchfaces/LuckyLoopKoeln.zip) | [![Robby watchface](../../../img/AAPS/watchfaces/Robby_watchface-CustomWatchface.png)<br>**Robby watchface**](../../../img/AAPS/watchfaces/Robby_watchface.zip) |
-| [![DigitalBigGraph](../../../img/AAPS/watchfaces/DigitalBigGraph-CustomWatchface.png)<br>**DigitalBigGraph**](../../../img/AAPS/watchfaces/DigitalBigGraph_v1.5.zip) | [![PinkFloydTheWall](../../../img/AAPS/watchfaces/PinkFloydTheWall-CustomWatchface.png)<br>**PinkFloydTheWall**](../../../img/AAPS/watchfaces/PinkFloydTheWall.zip) | | |
+| [![DigitalBigGraph](../../../img/AAPS/watchfaces/DigitalBigGraph-CustomWatchface.png)<br>**DigitalBigGraph**](../../../img/AAPS/watchfaces/DigitalBigGraph_v1.5.zip) | [![PinkFloydTheWall](../../../img/AAPS/watchfaces/PinkFloydTheWall-CustomWatchface.png)<br>**PinkFloydTheWall**](../../../img/AAPS/watchfaces/PinkFloydTheWall.zip) | [![pzero v1.0](../../../img/AAPS/watchfaces/pzero_v1.0-CustomWatchface.png)<br>**pzero v1.0**](../../../img/AAPS/watchfaces/pzero_v1.0.zip) | [![Blue Ring](../../../img/AAPS/watchfaces/Blue_Ring-CustomWatchface.jpg)<br>**Blue Ring**](../../../img/AAPS/watchfaces/Blue_Ring.zip)| | |
 
 <br>
 
