@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">
+        <link rel="canonical" href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/T1Ds%20Home%20Assistant/T1DDiabetesCard/">
       
       
-        <link rel="prev" href="../../T1Ds%20Home%20Assistant/T1DDiabetesCard/">
+        <link rel="prev" href="../../Alexa/T1_Pro_Cube/Myjade%20Aqara%20Cube%20T1%20Pro%20Setup%20for%20T1%E2%80%99s/">
       
       
-        <link rel="next" href="../../AndroidAPS/What%20is%20AAPS/">
+        <link rel="next" href="../../FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">
       
       
       <link rel="icon" href="../../../assets/favicon.ico">
@@ -22,7 +22,7 @@
     
     
       
-        <title>Setup Freestyle Libre 2 - Nightscout - Xdrip - AndroidAPS</title>
+        <title>T1DDiabetesCard - Nightscout - Xdrip - AndroidAPS</title>
       
     
     
@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#how-to-setup-a-freestyle-libre-2" class="md-skip">
+        <a href="#lovelace-t1d-diabetes-card-for-home-assistant" class="md-skip">
           Skip to content
         </a>
       
@@ -111,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Setup Freestyle Libre 2
+              T1DDiabetesCard
             
           </span>
         </div>
@@ -301,10 +301,12 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
+      <li class="md-tabs__item md-tabs__item--active">
         <a href="../../Alexa/T1_Pro_Cube/Alexa%20Show%20Nightscout%20on%20Echo%20Show%2010%203rd%20Gen/" class="md-tabs__link">
           
   
@@ -321,13 +323,11 @@
   
   
   
-    
-  
   
     
     
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="./" class="md-tabs__link">
+      <li class="md-tabs__item">
+        <a href="../../FreestyleLibre/How_to_setup_FreeStyle_Libre_2/" class="md-tabs__link">
           
   
   
@@ -1092,24 +1092,29 @@
       
   
   
+    
   
   
+  
     
     
     
     
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
         
           
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
             
   
   
@@ -1122,7 +1127,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_6">
             <span class="md-nav__icon md-icon"></span>
             T1D's Home Assistant
@@ -1179,10 +1184,32 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../T1Ds%20Home%20Assistant/T1DDiabetesCard/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    T1DDiabetesCard
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -1193,6 +1220,110 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#key-features-interface-breakdown" class="md-nav__link">
+    <span class="md-ellipsis">
+      🌟 Key Features &amp; Interface Breakdown
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🌟 Key Features &amp; Interface Breakdown">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#real-time-cgm-metrics" class="md-nav__link">
+    <span class="md-ellipsis">
+      📊 Real-Time CGM &amp; Metrics
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sensor-expiry-countdown" class="md-nav__link">
+    <span class="md-ellipsis">
+      ⏳ Sensor Expiry &amp; Countdown
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alexa-voice-readouts-aaps-via-tts" class="md-nav__link">
+    <span class="md-ellipsis">
+      🗣️ Alexa Voice Readouts (AAPS via TTS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      🚀 Installation &amp; Setup
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🚀 Installation &amp; Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#option-1-installation-via-hacs-recommended" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 1: Installation via HACS (Recommended)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-2-manual-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 2: Manual Installation
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#repository-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔗 Repository &amp; Support
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -1209,29 +1340,24 @@
       
   
   
-    
   
   
-  
     
     
     
     
       
-        
-        
-      
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
         
           
-          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
             
   
   
@@ -1244,7 +1370,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_7">
             <span class="md-nav__icon md-icon"></span>
             Freestyle Libre
@@ -1255,30 +1381,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    Setup Freestyle Libre 2
-    
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../FreestyleLibre/How_to_setup_FreeStyle_Libre_2/" class="md-nav__link">
         
   
   
@@ -1289,33 +1395,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-setup-a-freestyle-libre-2" class="md-nav__link">
-    <span class="md-ellipsis">
-      How to setup a Freestyle Libre 2
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -1650,6 +1729,8 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
@@ -1658,9 +1739,84 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#how-to-setup-a-freestyle-libre-2" class="md-nav__link">
+  <a href="#key-features-interface-breakdown" class="md-nav__link">
     <span class="md-ellipsis">
-      How to setup a Freestyle Libre 2
+      🌟 Key Features &amp; Interface Breakdown
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🌟 Key Features &amp; Interface Breakdown">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#real-time-cgm-metrics" class="md-nav__link">
+    <span class="md-ellipsis">
+      📊 Real-Time CGM &amp; Metrics
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sensor-expiry-countdown" class="md-nav__link">
+    <span class="md-ellipsis">
+      ⏳ Sensor Expiry &amp; Countdown
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#alexa-voice-readouts-aaps-via-tts" class="md-nav__link">
+    <span class="md-ellipsis">
+      🗣️ Alexa Voice Readouts (AAPS via TTS)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#installation-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      🚀 Installation &amp; Setup
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🚀 Installation &amp; Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#option-1-installation-via-hacs-recommended" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 1: Installation via HACS (Recommended)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#option-2-manual-installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Option 2: Manual Installation
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#repository-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔗 Repository &amp; Support
     </span>
   </a>
   
@@ -1682,21 +1838,62 @@
 
 
 
-  <h1>Setup Freestyle Libre 2</h1>
+<!-- docs made by D.Galloway 2019 - 2026 -->
 
-<!-- this is not on github server its local only and run my mkdocs server!
-docs made by D.Galloway 2019- 2021-->
+<h1 id="lovelace-t1d-diabetes-card-for-home-assistant">Lovelace T1D Diabetes Card for Home Assistant</h1>
+<p>The <strong>Lovelace T1D Diabetes Card</strong> brings your full AndroidAPS, Nightscout, and CGM data right into your Home Assistant dashboards. It is designed for clear glanceability, sensor tracking, and direct voice integration with Alexa devices across your home.</p>
+<p align="center">
+  <img src="../../../img/T1Ds Home Assistant/T1DDiabetesCard.png" width="220" title="Lovelace T1D Diabetes Card Preview" alt="Lovelace T1D Diabetes Card Preview" />
+</p>
 
-<h2 id="how-to-setup-a-freestyle-libre-2"><strong>How to setup a Freestyle Libre 2</strong> <br></h2>
-<p>I believe this method works thank you to Amanda Roberts for helping somone out kindly in <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="xdrip+ UK Facebook Group">xdrip+ UK  group,</a> why I'm adding it due to her advice it worked.<br></p>
-<p>she was using a Samsung with the libre 2 and the libre link app to start her sensor and a watch which sends data to her fitbit sense with glance watch face using xdrip. <br> if you have any issues please let me know!<br><br></p>
-<center><a href="https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank">
-  <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/31d3a605-c1b8-4076-a097-70548ce0c5b8" title="How to Setup Freestyle Libre 2"/></a>
-<br>
-
-## <a href=" https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank" title="How to setup a Freestyle Libre 2">How to setup a Freestyle Libre 2</a></center>
-
-<p><br></p>
+<blockquote>
+<p>⚠️ <strong>Development Status:</strong> Work in progress! Final fixes and updates are being actively worked on with a target to have it fully polished and working correctly this week (aiming for Friday).</p>
+</blockquote>
+<hr />
+<h2 id="key-features-interface-breakdown">🌟 Key Features &amp; Interface Breakdown</h2>
+<h3 id="real-time-cgm-metrics">📊 Real-Time CGM &amp; Metrics</h3>
+<ul>
+<li><strong>Glucose Readout &amp; Trend:</strong> Displays current mmol/L (e.g., <code>4.3 mmol/L Steady ➔</code>) with an integrated ring indicator.</li>
+<li><strong>Treatment Stats:</strong> Live tracking for <strong>IOB</strong> (Insulin on Board), <strong>COB</strong> (Carbs on Board), and <strong>REQ</strong> (Basal Request).</li>
+<li><strong>Estimated A1C:</strong> Calculated live estimation based on recent glucose logs.</li>
+<li><strong>Glucose History Graph:</strong> Compact trend line and detailed 24-hour range chart showing high/low thresholds (<code>10.5</code> / <code>4.0</code>).</li>
+</ul>
+<h3 id="sensor-expiry-countdown">⏳ Sensor Expiry &amp; Countdown</h3>
+<ul>
+<li><strong>Sensor Days Tracker:</strong> Shows the exact remaining lifespan of your active sensor (<code>e.g., 2 days, 2 hours, and 46 minutes</code>).</li>
+<li>Helps you plan exactly when your sensor end date/replacement is due so you never get caught off guard.</li>
+</ul>
+<h3 id="alexa-voice-readouts-aaps-via-tts">🗣️ Alexa Voice Readouts (AAPS via TTS)</h3>
+<ul>
+<li>Built-in direct trigger buttons (<strong>T1D Livingroom Readout</strong> &amp; <strong>T1D Bedroom Readout</strong>).</li>
+<li>Tapping these triggers Home Assistant scripts to send voice announcements over your Echo devices (Echo Show 10, etc.), reading out current AAPS readings, trend directions, and warnings loud and clear without opening the app.</li>
+</ul>
+<hr />
+<h2 id="installation-setup">🚀 Installation &amp; Setup</h2>
+<h3 id="option-1-installation-via-hacs-recommended">Option 1: Installation via HACS (Recommended)</h3>
+<ol>
+<li>Open <strong>HACS</strong> in Home Assistant.</li>
+<li>Go to <strong>Frontend</strong> ➔ Click the <strong>3 dots</strong> (top right) ➔ Select <strong>Custom Repositories</strong>.</li>
+<li>Add repository URL:
+   <code>https://github.com/Atlas-Night-Out/lovelace-t1d-diabetes-card</code></li>
+<li>Category: <strong>Lovelace</strong>.</li>
+<li>Click <strong>Add</strong>, find the card in HACS, and click <strong>Download</strong>.</li>
+</ol>
+<hr />
+<h3 id="option-2-manual-installation">Option 2: Manual Installation</h3>
+<ol>
+<li>Download <code>lovelace-t1d-diabetes-card.js</code> from the <a href="https://github.com/Atlas-Night-Out/lovelace-t1d-diabetes-card">GitHub Repository</a>.</li>
+<li>Save the file in your Home Assistant <code>/config/www/</code> folder.</li>
+<li>Add the resource under <strong>Settings</strong> ➔ <strong>Dashboards</strong> ➔ <strong>Resources</strong>:</li>
+<li><strong>URL:</strong> <code>/local/lovelace-t1d-diabetes-card.js</code></li>
+<li><strong>Resource Type:</strong> <code>JavaScript Module</code></li>
+</ol>
+<hr />
+<h2 id="repository-support">🔗 Repository &amp; Support</h2>
+<ul>
+<li><strong>Source Code:</strong> <a href="https://github.com/Atlas-Night-Out/lovelace-t1d-diabetes-card">GitHub - Atlas-Night-Out/lovelace-t1d-diabetes-card</a></li>
+<li><strong>Issues &amp; Bug Tracker:</strong> <a href="https://github.com/Atlas-Night-Out/lovelace-t1d-diabetes-card/issues">Report Issues on GitHub</a></li>
+</ul>
 <p><br></p>
 <p><br></p>
 <p><a href="">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a>
@@ -1710,110 +1907,6 @@ docs made by D.Galloway 2019- 2021-->
 <p><br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> <img alt="🚴🏻‍♂️" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f6b4-1f3fb-200d-2642-fe0f.svg" title=":man_biking_tone1:" /> UK Wide Cycle Ride - Diabetes.uk <img alt="🚴🏿‍♀️" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f6b4-1f3ff-200d-2640-fe0f.svg" title=":woman_biking_tone5:" /></a> <strong>or</strong> <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 <img alt="🏊🏿‍♂️" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f3ca-1f3ff-200d-2642-fe0f.svg" title=":man_swimming_tone5:" /></a> <strong>or</strong> <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank"><img alt="🚶🏿‍♂️" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f6b6-1f3ff-200d-2642-fe0f.svg" title=":man_walking_tone5:" /> Diabetes UK Month of Miles Challenge <img alt="🏃‍♀️" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f3c3-200d-2640-fe0f.svg" title=":woman_running:" /></a> for all of your Diabetes Needs!</p>
-<!--  
-  ******************************************************************************************************************
-  mkdocs.yml    # The configuration file.
-    docs/
-    index.md  # The documentation homepage.
-       ...       # Other markdown pages, images and other files.
-
-        *************************************************************************
-        center text**
-        ## <center>Now Do  </center><br>
-
-        *************************************************************
-
-
-<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>      
-
-
-adding  Yellow Hightligher!!!!!!!!  with bold too
-<span style="background-color: #FFFF00">**Marked text**</span>
-
-
-<a>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>  
-
-link
-<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
-
-
-Adding a image with link
-<a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
-</a><br>
-
-
-Adding Video
-
-<iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Adding an embeded video
-<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-Note
-**Note:** a note is something that needs to be mentioned but is apart from the context.
-
-
-List
-This is a regular paragraph.
-
-Paragraph:
-
-1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
-  and **click** Start Free
- <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
-   2. Sub item two
-   3. Sub item three
-2. Item two
-
-
-
-font size
-<font size="4">
-
-</font>
-
-link
-<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
-
-
-Table
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-
-Video in a box border!
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
- <iframe id="video3" width="860" height="515" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-*****************************************************
-Warning Note<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
-</tr>
-</tbody>
-</table>
-
--->
 
 
 
@@ -1836,7 +1929,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="July 5, 2025 10:32:20 BST"><span class="timeago" datetime="2025-07-05T10:32:20+01:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="July 5, 2025 10:32:20 BST">2025-07-05</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="July 23, 2026 22:37:53 BST"><span class="timeago" datetime="2026-07-23T22:37:53+01:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="July 23, 2026 22:37:53 BST">2026-07-23</span>
   </span>
 
     
@@ -1846,7 +1939,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="February 20, 2025 19:08:03 GMT"><span class="timeago" datetime="2025-02-20T19:08:03+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="February 20, 2025 19:08:03 GMT">2025-02-20</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" title="July 23, 2026 22:37:53 BST"><span class="timeago" datetime="2026-07-23T22:37:53+01:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date" title="July 23, 2026 22:37:53 BST">2026-07-23</span>
   </span>
 
     
@@ -1896,7 +1989,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../../T1Ds%20Home%20Assistant/T1DDiabetesCard/" class="md-footer__link md-footer__link--prev" aria-label="Previous: T1DDiabetesCard">
+          <a href="../../Alexa/T1_Pro_Cube/Myjade%20Aqara%20Cube%20T1%20Pro%20Setup%20for%20T1%E2%80%99s/" class="md-footer__link md-footer__link--prev" aria-label="Previous: My Jade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
@@ -1906,20 +1999,20 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
                 Previous
               </span>
               <div class="md-ellipsis">
-                T1DDiabetesCard
+                My Jade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10
               </div>
             </div>
           </a>
         
         
           
-          <a href="../../AndroidAPS/What%20is%20AAPS/" class="md-footer__link md-footer__link--next" aria-label="Next: What is AAPS">
+          <a href="../../FreestyleLibre/How_to_setup_FreeStyle_Libre_2/" class="md-footer__link md-footer__link--next" aria-label="Next: Setup Freestyle Libre 2">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                What is AAPS
+                Setup Freestyle Libre 2
               </div>
             </div>
             <div class="md-footer__button md-icon">
