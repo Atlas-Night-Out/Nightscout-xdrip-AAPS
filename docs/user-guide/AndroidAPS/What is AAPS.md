@@ -6,7 +6,7 @@ docs made by D.Galloway 2019- 2021-->
 
 # **Intro into AAPS** <br>
 
-!!! Question - what is AAPS
+!!! Question - what is AAPS2
 What is AAPS
 
 !!! note "Info"
