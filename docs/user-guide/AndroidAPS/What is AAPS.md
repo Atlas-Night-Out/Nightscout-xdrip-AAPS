@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fd599896-1918-4933-ac8d-a5e4a298abbc" title="AAPS logo"/></a>
 
-# **Intro into AAPS2** <br>
+# **Intro into AAPS3** <br>
 
 !!! Question - what is AAPS
 What is AAPS
