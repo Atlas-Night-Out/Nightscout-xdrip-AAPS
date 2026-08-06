@@ -1,4 +1,8 @@
-<meta property="og:image" content="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/assets/images/Dexcom%20Shar%20Home%20Assistant.png">
+---
+meta:
+  - property: og:image
+    content: "https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0"
+---
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
