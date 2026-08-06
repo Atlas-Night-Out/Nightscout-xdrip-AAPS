@@ -1,11 +1,11 @@
 ---
 meta:
   - property: og:image
-    content: "https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0"
+    content: "https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/assets/images/Dexcom Shar Home Assistant.png"
 ---
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
-
+<img width="300" height="Auto" border="0" align="center" src="../../assets/images/Dexcom Shar Home Assistant.png" title="Dex Share Followers">
 
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f778a2b5-6262-4275-80b9-ef0f16f21e35" title="xdrip+ original logo"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmol/L DXCM1"/></a>
 
@@ -26,7 +26,7 @@ Dexcom Share Follower allows caregivers, family members, or healthcare providers
 
 <center>
 
-###  <a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Dexcom G6 - Setting up Dexcom Share and Follow"> Dexcom G6 - Setting up Dexcom Share and Follow </a> </center>
+  <a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Dexcom G6 - Setting up Dexcom Share and Follow"> Dexcom G6 - Setting up Dexcom Share and Follow </a> </center>
 
 <a href="https://www.youtube.com/watch?v=uRzaL7mfUck&t=5s" target="_blank">
   <img width="auto" height="auto" border="0" align="Left"  src="https://github.com/user-attachments/assets/406522bb-7f7b-4d7b-b19c-a9df54562e2f" title="Dexcom G6 - Setting up Dexcom Share and Follow"/></a> <br>
@@ -35,7 +35,7 @@ Dexcom Share Follower allows caregivers, family members, or healthcare providers
 <br>
 <br>
 
-### :fontawesome-solid-1: Enable Dexcom Share on the Primary User’s Device<br>
+ :fontawesome-solid-1: Enable Dexcom Share on the Primary User’s Device<br>
 
 :octicons-dot-fill-16: Open the Dexcom G6/G7 app <img width="30" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>
  If you have not already installed it, <a href="https://play.google.com/store/apps/details?id=com.dexcom.g6.region1.mmol" target="_blank" title="Dexcom G6 mmol/L DXCM1">Click Here</a><br>
