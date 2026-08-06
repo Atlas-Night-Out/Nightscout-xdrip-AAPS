@@ -5,7 +5,14 @@ docs made by D.Galloway 2019- 2021-->
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f778a2b5-6262-4275-80b9-ef0f16f21e35" title="xdrip+ original logo"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmol/L DXCM1"/></a>
 
 # **Dex Share Followers Setup Guide** <br>
+## Setting Up Dexcom Share (Required for Home Assistant)<br>
 
+
+
+
+
+
+---
 
 !!! note "Info"
 
@@ -156,6 +163,18 @@ Adding a image with link
 <a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
 </a><br>
+
+***************************************************************************************************************
+
+Link with image and external link in new tab also as descripyion in it too...
+
+[![Dexcom G6 Clean](../../assets/images/2026-08-05_19-08-53.png "Click to view the Dexcom follower setup guide"){ width="300" }](https://github.com/Atlas-Night-Out/T1DDiabetesHACard-App/blob/main/Docs/dexcom_follower_setup.md){ target="_blank" }
+
+
+![My Test Image](../../assets/images/2026-08-05_19-08-53.png)
+
+![Dexcom G6 Clean](../../assets/images/2026-08-05_19-08-53.png){ width="300" }
+
 
 
 ******************

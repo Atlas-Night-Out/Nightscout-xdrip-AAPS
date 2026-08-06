@@ -1,4 +1,4 @@
-<!-- docs made by D.Galloway 2019 - 2026 2-->
+<!-- docs made by D.Galloway 2019 - 2026 -->
 
 # Adding Other AAPS Custom Watch Faces
 

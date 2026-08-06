@@ -45,8 +45,8 @@ With using Nightscout, Xdrip+, and Android APS. And other advancing things
 <br>
 
 <br>
-
- And a Big thank you to Chris from 🩸Blood 💦 Sweat and ⚙ Gears      
+     
+And a Big thank you to Chris from :drop_of_blood: Blood :sweat_drops: Sweat :gear: Gears and :blue_heart: Heart
 
 <br>
 <br>
@@ -74,3 +74,17 @@ Please note: these projects have no connection with and are not endorsed by: Dex
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 
+
+
+
+<!--
+
+
+
+And a Big thank you to Chris from 🩸Blood 💦 Sweat and ⚙ Gears      
+And a Big thank you to Chris from :drop_of_blood: Blood :sweat_drops: Sweat :gear: Gears and :blue_heart: Heart
+
+
+
+
+-->
