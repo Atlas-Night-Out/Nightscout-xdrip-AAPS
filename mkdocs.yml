@@ -43,7 +43,9 @@ plugins:
       locale: en
       fallback_to_build_date: false
       enable_creation_date: true
-  
+  - social:
+      cards_layout_options:
+        background_color: "#1E1E1E"
 
 extra:
   social:
