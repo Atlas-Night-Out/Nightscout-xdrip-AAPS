@@ -1,3 +1,8 @@
+---
+meta:
+  - property: og:image
+    content: "https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0"
+---
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
@@ -21,7 +26,7 @@ Dexcom Share Follower allows caregivers, family members, or healthcare providers
 
 <center>
 
-## <a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Dexcom G6 - Setting up Dexcom Share and Follow"> Dexcom G6 - Setting up Dexcom Share and Follow </a> </center>
+###  <a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Dexcom G6 - Setting up Dexcom Share and Follow"> Dexcom G6 - Setting up Dexcom Share and Follow </a> </center>
 
 <a href="https://www.youtube.com/watch?v=uRzaL7mfUck&t=5s" target="_blank">
   <img width="auto" height="auto" border="0" align="Left"  src="https://github.com/user-attachments/assets/406522bb-7f7b-4d7b-b19c-a9df54562e2f" title="Dexcom G6 - Setting up Dexcom Share and Follow"/></a> <br>
