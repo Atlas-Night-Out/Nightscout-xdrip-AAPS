@@ -1,7 +1,7 @@
----
+  ---
 meta:
   - property: og:image
-    content: "https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0"
+    content: "https://github.com/user-attachments/assets/af21c157-5ae3-43c6-a9d9-6c60f64369e3"
 ---
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
@@ -129,6 +129,27 @@ Nightscout Integration: Forward Dexcom data to Nightscout for more customization
 
 <!--  
   ******************************************************************************************************************
+  
+  Facebook debugg
+
+  ---
+meta:
+  - property: og:image
+    content: "https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0"
+---
+  
+
+
+  Setting Up Dexcom Share (Required for Home Assistant)
+  ---
+meta:
+  - property: og:image
+    content: "https://github.com/user-attachments/assets/af21c157-5ae3-43c6-a9d9-6c60f64369e3"
+---
+  
+  
+  
+  
   mkdocs.yml    # The configuration file.
     docs/
     index.md  # The documentation homepage.
