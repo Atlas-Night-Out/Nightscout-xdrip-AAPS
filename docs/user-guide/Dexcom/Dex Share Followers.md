@@ -15,10 +15,6 @@ docs made by D.Galloway 2019- 2021-->
 
 
 
-
-
----
-
 !!! note "Info"
 
 
