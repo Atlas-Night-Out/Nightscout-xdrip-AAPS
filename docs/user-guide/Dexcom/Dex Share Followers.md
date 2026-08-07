@@ -6,11 +6,11 @@ meta:
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
-<center>
+
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f778a2b5-6262-4275-80b9-ef0f16f21e35" title="xdrip+ original logo"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmol/L DXCM1"/></a>
 
 # **Dex Share Followers Setup Guide** <br>
-### Setting Up Dexcom Share (Required for Home Assistant)<br></center>
+### Setting Up Dexcom Share (Required for Home Assistant)<br>
 
 
 
