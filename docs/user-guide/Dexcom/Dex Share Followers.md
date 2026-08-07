@@ -4,37 +4,41 @@ meta:
     content: "https://github.com/user-attachments/assets/28413724-9144-4d82-8d46-7280865f2728"
 ---
 <!-- this is  on github server!
-docs made by D.Galloway 2019- 2021-->
+docs made by D.Galloway 2019- 2026-->
 
 
-<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f778a2b5-6262-4275-80b9-ef0f16f21e35" title="xdrip+ original logo"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmol/L DXCM1"/></a>
+<div align="center">
+  <img width="300" height="Auto" border="0" src="https://github.com/user-attachments/assets/f778a2b5-6262-4275-80b9-ef0f16f21e35" title="xdrip+ original logo"/>&emsp;&emsp;
+  <img width="95" height="Auto" border="0" src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/>&emsp;&emsp;
+  <img width="95" height="Auto" border="0" src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmol/L DXCM1"/>
 
-# **Dex Share Followers Setup Guide** <br>
-### Setting Up Dexcom Share (Required for Home Assistant)<br>
+  <h1 style="text-align: center;"><strong>Dex Share Followers Setup Guide</strong></h1>
+
+
+<h2 style="text-align: center;"><strong>Setting Up Dexcom Share (Required for Home Assistant)</strong></h2>
+</div>
+
 
 
 
 
 !!! note "Info"
-
-
-Dexcom Share Follower allows caregivers, family members, or healthcare providers to remotely monitor a Dexcom CGM user’s glucose data in real time via the Dexcom Follow app or website.<br>
+    Dexcom Share Follower allows caregivers, family members, or healthcare providers to remotely monitor a Dexcom CGM user’s glucose data in real time via the Dexcom Follow app or website.
 
 <center>
-
-  <a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Dexcom G6 - Setting up Dexcom Share and Follow"> Dexcom G6 - Setting up Dexcom Share and Follow </a> </center>
+  Need a visual walkthrough? You can watch the official step-by-step guide video from Dexcom here:
+  * <a href="https://www.youtube.com/watch?v=uRzaL7mfUck" target="_blank" title="Click to watch the Dexcom guide on YouTube">Dexcom G6 - Setting up Dexcom Share and Follow on YouTube</a>
+</center>
 
 <a href="https://www.youtube.com/watch?v=uRzaL7mfUck&t=5s" target="_blank">
-  <img width="auto" height="auto" border="0" align="Left"  src="https://github.com/user-attachments/assets/406522bb-7f7b-4d7b-b19c-a9df54562e2f" title="Dexcom G6 - Setting up Dexcom Share and Follow"/></a> <br>
+  <img width="auto" height="auto" border="0" align="Left" src="https://github.com/user-attachments/assets/406522bb-7f7b-4d7b-b19c-a9df54562e2f" title="Dexcom G6 - Setting up Dexcom Share and Follow"/>
+</a>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 ## Step 1: Set Up Share in the Dexcom App
 
-1. Open the Dexcom G6/G7 app <img width="30" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>
- If you have not already installed it, <a href="https://play.google.com/store/apps/details?id=com.dexcom.g6.region1.mmol" target="_blank" title="Dexcom G6 mmol/L DXCM1">Click Here</a>
+1. Open the Dexcom G6/G7 app <a href="https://play.google.com/store/apps/details?id=com.dexcom.g6.region1.mmol" target="_blank"><img width="30" height="Auto" border="0" align="center" src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a> (if you do not already have it installed). <a href="https://play.google.com/store/apps/details?id=com.dexcom.g6.region1.mmol" target="_blank" title="Dexcom G6 mmol/L DXCM1">Dexcom G6/G7 app</a>
 
 2. Tap the **Share** icon (the small sharing/network symbol) on the top right of your home screen.
 
@@ -44,93 +48,87 @@ Dexcom Share Follower allows caregivers, family members, or healthcare providers
 
 5. Enter your email address (the same email or a secondary email address you can access).
 
-6. Choose your follower settings (such as allowing them to see your trend graph and setting alert thresholds), then review and **send the invitation**.
-<br>
+6. Choose your follower permissions:
+    * **View Only:** Can see glucose data.
+    * **Manage Alerts:** Can adjust high/low alerts (if allowed).
+7. Review and **send the invitation**.
 
- :fontawesome-solid-1: Enable Dexcom Share on the Primary User’s Device<br>
 
-:octicons-dot-fill-16: Open the Dexcom G6/G7 app <img width="30" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>
- If you have not already installed it, <a href="https://play.google.com/store/apps/details?id=com.dexcom.g6.region1.mmol" target="_blank" title="Dexcom G6 mmol/L DXCM1">Click Here</a><br>
-
-:octicons-dot-fill-16: Go to Settings → Share.<br>
-
-:octicons-dot-fill-16: Tap "Add Follower" and enter the follower’s email address.<br>
-
-:octicons-dot-fill-16: Choose permissions:<br>
-
-&emsp;&emsp;:octicons-dot-fill-16: View Only: Can see glucose data.<br>
-
-&emsp;&emsp;:octicons-dot-fill-16:Manage Alerts: Can adjust high/low alerts (if allowed).<br>
 
 
 ### :fontawesome-solid-2: Follower Accepts the Invitation <br>
 
-:octicons-dot-fill-16: The follower receives an email with a "View Glucose Data" link.<br>
+1. Check the email inbox. The follower will receive a message with a 'View Glucose Data' link.
 
-:octicons-dot-fill-16: They must: Or you must if you want to follow yourself!<br>
+2. Download the Dexcom Follow app <a href="https://play.google.com/store/apps/details?id=com.dexcom.follow.region1.mmol" target="_blank"><img width="30" height="Auto" border="0" align="center" src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmol/L DXCM1"/></a> for (Android). (if you do not already have it installed). <a href="https://play.google.com/store/apps/details?id=com.dexcom.follow.region1.mmol" target="_blank" title="Dexcom Follow mmol/L DXCM1"> Dexcom Follow app</a>
 
-&emsp;&emsp;:octicons-dot-fill-16: Download the Dexcom Follow app <img width="30" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmolL DXCM1"/></a> (Android). If you do  not already have it <Br>
-&emsp;&emsp;installed, <a href="https://play.google.com/store/apps/details?id=com.dexcom.follow.region1.mmol" target="_blank" title="Dexcom Follow mmol/L DXCM1">Click Here</a><br>
+3. Open the invitation email from Dexcom and click **Start Following** (or follow the link to download the Dexcom Follow app if prompted).
 
-&emsp;&emsp;:octicons-dot-fill-16: Log in with the same email used in the invite.<br>
+    * **Sharing with someone else:** They must accept the invitation using their own device and account.
+    * **Following yourself:** If you are setting this up to follow your own data (e.g., for Home Assistant), accept the invitation yourself and log in using your usual Dexcom account credentials.
 
-### :fontawesome-solid-3: Start Monitoring <br>
+4. Accept the invitation inside the app to finalize the cloud link.
 
-:octicons-dot-fill-16: Followers or your self can now see: <br>
+??? warning "Important: Match Your Email Address"
+    You must log into the app using the **exact same email address** that the invite was sent to. If the emails do not match, the connection will fail.
 
-&emsp;&emsp; :octicons-dot-fill-16: Real-time glucose values <br>
+!!! note "Note: Once this connection is active, Home Assistant will be able to securely log into your Dexcom account and pull your real-time numbers."
 
-&emsp;&emsp; :octicons-dot-fill-16: Trends (arrows) <br>
+### :fontawesome-solid-3: Start Monitoring
 
-&emsp;&emsp; :octicons-dot-fill-16: Alerts (if enabled) <br>
-
-:octicons-dot-fill-16: Accessible via: <br>
-
-&emsp;&emsp; :octicons-dot-fill-16: Dexcom Follow app <br>
-
-&emsp;&emsp; :octicons-dot-fill-16: <a href="https://clarity.dexcom.eu/" target="_blank" title="Dexcom Clarity">Dexcom Clarity Website</a> (for reports) <br>
-
+* **What you or your followers can now view:**
+    * Real-time glucose values
+    * Trends (arrows)—**used in Home Assistant scripts and card readouts**
+    * Custom alerts (if enabled)
+* **Accessible via:**
+    * Dexcom Follow app
+    * <a href="https://clarity.dexcom.eu/" target="_blank" title="Dexcom Clarity">Dexcom Clarity Website</a> (for reports)
 
 <br>
 
-### Troubleshooting
 
-!!! Warning "Troubleshooting"
+### :fontawesome-solid-4: Troubleshooting
 
-:octicons-dot-fill-16: Invite Not Received?<br>
+!!! warning "Important Warning"
+    Make sure your Dexcom account region (US vs. International) and active internet connection are correctly configured before troubleshooting connection errors.
 
-&emsp;&emsp; :octicons-dot-fill-16: <Check spam/junk folder.<br>
-
-&emsp;&emsp; :octicons-dot-fill-16: <Resend invite from the Dexcom app → Share.<br>
-
-:octicons-dot-fill-16: "Connection Failed" Error?<br>
-
-&emsp;&emsp; :octicons-dot-fill-16: Ensure the primary user’s phone has internet (Share requires Wi-Fi/cellular).<br>
-
-:octicons-dot-fill-16: Delay in Data?<br>
-
-&emsp;&emsp; :octicons-dot-fill-16: Dexcom Share updates every 5 minutes (not real-time).<br>
-<br>
+* **Invite Not Received?**
+    * Check spam/junk folders.
+    * Resend the invite from the Dexcom app → Share menu.
+* **"Connection Failed" or Login Error?**
+    * Ensure the primary user’s phone has active internet (Share requires Wi-Fi or cellular data).
+    * **Region Mismatch:** Make sure your Dexcom account region (US vs. International) matches your login settings.
+* **Delay in Data / No Updates?**
+    * Dexcom Share updates cloud servers every 5 minutes, so minor delays are normal.
 
 <center>
-<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e6797aff-2b23-4814-bd61-7790b0b3c74b" title="Dexcom Follow"/></a></center>
-<br>
-
-### :bulb: Advanced Options
-
-Multiple Followers: Add up to 10 people.<br>
-
-Nightscout Integration: Forward Dexcom data to Nightscout for more customization.<br>
+  <img width="250" height="auto" border="0" align="center" src="https://github.com/user-attachments/assets/e6797aff-2b23-4814-bd61-7790b0b3c74b" title="Dexcom Follow" />
+</center>
 
 <br>
-<br>
-<br>
+
+### :bulb: :fontawesome-solid-5: Advanced Options
+
+* **Multiple Followers:** 
+    * You can share your real-time glucose data with **up to 10 people** simultaneously. This is great for family members, caregivers, or integrating multiple monitoring devices.
+    * *For more details, check out the official <a href="https://www.dexcom.com/faqs/follow-app" target="_blank" title="Dexcom Follow FAQ">Dexcom Follow FAQ</a> page.*
+* **Nightscout Integration:** 
+    * You can forward your Dexcom cloud data to a personal Nightscout site for more customization, independent data history, and direct integration with local Home Assistant dashboards.
+    * *To configure connection parameters like server region and sync intervals, review the <a href="https://nightscout.github.io/nightscout/setup_variables/" target="_blank" title="Nightscout Setup Documentation">Nightscout Setup Variables Guide</a>.*
+* **Polling Intervals & Rate Limits:**
+    * When setting up automations, be mindful of polling frequency. Dexcom's official cloud servers operate on a 5-minute update cycle, so setting automated queries too aggressively can trigger rate limits or account lockouts.
+
 <br>
 
-[&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
-[Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
+
+
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1" class="md-button" target="_blank" title="Subscribe to our YouTube Channel">Please Subscribe to our UTUBE Channel</a>
+</div>
 
 <br>
+
 <a href="https://maundyrelief.org.uk/" target="_blank">
   <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
 <br>
@@ -203,9 +201,15 @@ Adding a image with link
 
 ***************************************************************************************************************
 
-Link with image and external link in new tab also as descripyion in it too...
+Link with image size and external link in new tab also as description in it too...
 
 [![Dexcom G6 Clean](../../assets/images/2026-08-05_19-08-53.png "Click to view the Dexcom follower setup guide"){ width="300" }](https://github.com/Atlas-Night-Out/T1DDiabetesHACard-App/blob/main/Docs/dexcom_follower_setup.md){ target="_blank" }
+
+
+
+<a href="https://play.google.com/store/apps/details?id=com.dexcom.follow.region1.mmol" target="_blank"><img width="30" height="Auto" border="0" align="center" src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmolL DXCM1"/></a>
+
+
 
 
 ![My Test Image](../../assets/images/2026-08-05_19-08-53.png)
@@ -237,7 +241,17 @@ Relative Link:
 
 # <center>Part 4: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
 
+********************************************************************************************
 Adding Video
+*******************************
+
+
+## Visual Reference & Video Guide
+
+Need a visual walkthrough? You can watch the official step-by-step guide video from Dexcom here:
+* <a href="https://www.youtube.com/watch?v=uRzaL7mfUck" target="_blank" title="Click to watch the Dexcom guide on YouTube">Dexcom G6 - Setting up Dexcom Share and Follow on YouTube</a>
+
+
 
 <iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -251,8 +265,17 @@ Video with image but this if a false Video!!!! And just and image with a link!
   <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f44c325b-d1d0-483a-813b-bc45813f846a" title="Alexa - Jade - Skills & Games"/></a>
 
 
+
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
+
+************************************************************************************************
+
+Admonitions
+*************************************
+
+
+!!! note "Note: Once this connection is active, Home Assistant will be able to securely log into your Dexcom account and pull your real-time numbers."
 
 
 This is a note with a drop down! you have to keep the format the same for it to work!!!!!!!!!!
@@ -262,6 +285,19 @@ This is a note with a drop down! you have to keep the format the same for it to 
 
 
 !!! Warning "Important Notice - This Video is a Old Way Watch with Caution"
+
+
+
+??? Warning "Important Note - This Video is a Old Way to do it! Watch with Caution"
+
+    This Xdrip+ Install 2019 video installation process is  old now and the video really needed to be updated, which I done now. But will be leaving on the site for reference sake only <br>
+
+??? info "Notes"
+
+    This Xdrip+ Install 2019 video installation process is  old now and the video really needed to be updated, which I done now. But will be leaving on the site for reference sake only <br>
+
+
+****************************************************************************************
 
 List
 This is a regular paragraph.
@@ -317,6 +353,24 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </tr>
 </tbody>
 </table>
+
+************************************************************************************
+Subscribe
+***************
+
+new way with external link
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1" class="md-button" target="_blank" title="Subscribe to our YouTube Channel">Please Subscribe to our UTUBE Channel</a>
+</div>
+
+<br>
+
+
+old way
+
+[&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
+[Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 
 -->
 
