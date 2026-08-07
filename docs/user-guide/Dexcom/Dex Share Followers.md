@@ -1,16 +1,16 @@
 ---
 meta:
   - property: og:image
-    content: "https://github.com/user-attachments/assets/af21c157-5ae3-43c6-a9d9-6c60f64369e3"
+    content: "https://github.com/user-attachments/assets/28413724-9144-4d82-8d46-7280865f2728"
 ---
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
-
+<center>
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f778a2b5-6262-4275-80b9-ef0f16f21e35" title="xdrip+ original logo"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>&emsp;&emsp;<img width="95" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmol/L DXCM1"/></a>
 
 # **Dex Share Followers Setup Guide** <br>
-## Setting Up Dexcom Share (Required for Home Assistant)<br>
+### Setting Up Dexcom Share (Required for Home Assistant)<br></center>
 
 
 
@@ -33,6 +33,22 @@ Dexcom Share Follower allows caregivers, family members, or healthcare providers
 
 <br>
 <br>
+<br>
+
+## Step 1: Set Up Share in the Dexcom App
+
+1. Open the Dexcom G6/G7 app <img width="30" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a029ff04-61a8-4eb0-ba00-0acd214b7c04" title="Dexcom G6 mmol/L DXCM1"/></a>
+ If you have not already installed it, <a href="https://play.google.com/store/apps/details?id=com.dexcom.g6.region1.mmol" target="_blank" title="Dexcom G6 mmol/L DXCM1">Click Here</a>
+
+2. Tap the **Share** icon (the small sharing/network symbol) on the top right of your home screen.
+
+3. Follow the on-screen instructions and informational prompts to enable Dexcom Share.
+
+4. Choose the option to **Invite a Follower**.
+
+5. Enter your email address (the same email or a secondary email address you can access).
+
+6. Choose your follower settings (such as allowing them to see your trend graph and setting alert thresholds), then review and **send the invitation**.
 <br>
 
  :fontawesome-solid-1: Enable Dexcom Share on the Primary User’s Device<br>
@@ -132,7 +148,7 @@ Nightscout Integration: Forward Dexcom data to Nightscout for more customization
   
   Facebook debugg
 
-  ---
+---
 meta:
   - property: og:image
     content: "https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0"
@@ -140,11 +156,10 @@ meta:
   
 
 
-  Setting Up Dexcom Share (Required for Home Assistant)
-  ---
+---
 meta:
   - property: og:image
-    content: "https://github.com/user-attachments/assets/af21c157-5ae3-43c6-a9d9-6c60f64369e3"
+    content: "https://github.com/user-attachments/assets/28413724-9144-4d82-8d46-7280865f2728"
 ---
   
   
