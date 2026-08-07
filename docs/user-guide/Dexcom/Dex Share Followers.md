@@ -1,4 +1,4 @@
-  ---
+---
 meta:
   - property: og:image
     content: "https://github.com/user-attachments/assets/af21c157-5ae3-43c6-a9d9-6c60f64369e3"
