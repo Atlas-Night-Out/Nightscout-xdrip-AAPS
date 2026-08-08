@@ -11,3 +11,14 @@
     background-color: #ffcccc !important;
   }
 */
+
+[data-md-color-scheme="slate"] {
+  /* This makes the main background a very deep, sharp charcoal/black */
+  --md-default-bg-color: #0d1117; 
+  
+  /* This slightly offsets the sidebar and cards for contrast */
+  --md-default-bg-color--light: #161b22; 
+  
+  /* This makes the code blocks match the sharper dark aesthetic */
+  --md-code-bg-color: #090c10; 
+}

@@ -216,7 +216,7 @@ Link with image size and external link in new tab also as description in it too.
 
 ![Dexcom G6 Clean](../../assets/images/2026-08-05_19-08-53.png){ width="300" }
 
-
+[Download script file](scripts/S24 Announce T1D Glucose Trend From App Dexcom.md){ .md-button }
 
 ******************
 extern just a link

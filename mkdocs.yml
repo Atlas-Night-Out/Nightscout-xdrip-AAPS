@@ -14,6 +14,8 @@ theme:
       - navigation.tabs
       - navigation.tabs.sticky
       - navigation.top
+      - content.code.file
+      - content.code.copy
 
     palette:
       # Dark Mode
@@ -127,6 +129,7 @@ nav:
     - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Alexa Show Nightscout on Echo Show 10 3rd Gen.md'
     - 'My Jade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
     - 'T1DDiabetesCard': 'user-guide/T1Ds Home Assistant/T1DDiabetesCard.md'
+    - 'Setting Up T1D Glucose Text-to-Speech (TTS) Announcements': 'user-guide/T1Ds Home Assistant/t1d_tts_setup_guide.md'
     
 -   Freestyle Libre : 
     - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'    
