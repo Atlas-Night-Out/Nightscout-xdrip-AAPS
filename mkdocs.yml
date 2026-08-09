@@ -14,6 +14,8 @@ theme:
       - navigation.tabs
       - navigation.tabs.sticky
       - navigation.top
+      - navigation.sections        # <--- Adds section styling to the left sidebar
+      - navigation.expand          # <--- Auto-expands the tree structure on the left
       - content.code.file
       - content.code.copy
 

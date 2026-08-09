@@ -141,6 +141,8 @@ docs made by D.Galloway 2019- 2026-->
   ******************************************************************************************************************
   
   Facebook debugg
+********************************
+
 
 ---
 meta:
@@ -190,7 +192,48 @@ white space:
 <a>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
 
+***********************
 link
+**********************
+
+* 👉 Need help getting your Dexcom connected first? [Check out our Dexcom Follower & Share Setup Guide](../Dexcom/Dex%20Share%20Followers.md){ target="_blank" }
+
+
+[test](../Dexcom/Dex%20Share%20Followers.md)
+
+To make the link open in a new tab, add `{ target="_blank" }` right after the closing parenthesis of your link.
+
+Here is the exact format to use:
+
+
+markdown
+[Your Link Text](../Folder-Name/file-name.md){ target="_blank" }
+
+
+### Quick Documentation Cheat Sheet
+
+*Save this snippet or note so you don't have to guess next time:*
+
+**How to insert a local link that opens in a new tab:**
+
+1. Type your bracket text: `[Click Here]()`
+2. Inside the parentheses `()`, type `./` to open the Path Intellisense file picker.
+3. Select your file (or type `../` to step up into parent folders).
+4. Add `{ target="_blank" }` immediately after the closing parenthesis to make it open in a new tab.
+
+**Final Result Example:**
+
+```markdown
+[Check out our guide](../Dexcom/Dex Share Followers.md){ target="_blank" }
+
+```
+
+
+
+
+
+
+
 <a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
 
 
@@ -210,13 +253,15 @@ Link with image size and external link in new tab also as description in it too.
 <a href="https://play.google.com/store/apps/details?id=com.dexcom.follow.region1.mmol" target="_blank"><img width="30" height="Auto" border="0" align="center" src="https://github.com/user-attachments/assets/7607c150-ee98-4f9b-97ff-abb894de6ba0" title="Dexcom Follow mmolL DXCM1"/></a>
 
 
+*********************************************
+Adds links to my Image files with the correct path
 
+<div align="center">
+  <img width="300" height="Auto" border="0" src="../../../assets/images/T1d TTS Setup Guide Logo.png" title="T1D tts Setup Guide">&emsp;&emsp;
+  </div>
 
-![My Test Image](../../assets/images/2026-08-05_19-08-53.png)
+C:\Users\David Galloway\Visual-Studio-Code-Projects\Nightscout-xdrip-AAPS_2\Nightscout-xdrip-AAPS\docs\assets\images
 
-![Dexcom G6 Clean](../../assets/images/2026-08-05_19-08-53.png){ width="300" }
-
-[Download script file](scripts/S24 Announce T1D Glucose Trend From App Dexcom.md){ .md-button }
 
 ******************
 extern just a link
@@ -373,4 +418,3 @@ old way
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 
 -->
-

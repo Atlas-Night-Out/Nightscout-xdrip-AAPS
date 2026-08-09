@@ -21,4 +21,21 @@
   
   /* This makes the code blocks match the sharper dark aesthetic */
   --md-code-bg-color: #090c10; 
+
+  
+}
+
+[data-md-color-scheme="slate"] {
+  /* Code block container background and text color */
+  --md-code-bg-color: #121619;     /* Deep dark background matching your theme */
+  --md-code-fg-color: #c9d1d9;     /* General code text color */
+  
+  /* Syntax highlighting colors (matching your green accent style) */
+  --md-code-hl-keyword-color: #7ee787;      /* Keywords (e.g., set, if) */
+  --md-code-hl-function-color: #d2a8ff;     /* Functions */
+  --md-code-hl-string-color: #a5d6ff;       /* Strings */
+  --md-code-hl-number-color: #7ee787;       /* Numbers / values */
+  --md-code-hl-comment-color: #8b949e;      /* Comments */
+  --md-code-hl-variable-color: #7ee787;     /* Variables / keys */
+  --md-code-hl-operator-color: #7ee787;     /* Operators */
 }
