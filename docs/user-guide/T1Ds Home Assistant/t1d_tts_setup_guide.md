@@ -118,7 +118,13 @@ making sure to indent it correctly before you restart HA.
 When adding this code into your Home Assistant `configuration.yaml` file, precision is key. 
 
 * **YAML Indentation Matters:** YAML relies strictly on spaces (not tabs!). If your spaces are off, Home Assistant will fail to boot. 
-* **Editor Tip:** If you edit files locally on your machine, make sure your text editor is configured properly to insert spaces instead of tab characters when you press the Tab key. For a complete walkthrough on how to set this up correctly, check out our dedicated <a href="../AndroidAPS/notepad++.md" target="_blank" rel="noopener noreferrer">Notepad++ Setup Guide</a>.
+* **Editor Tip:** If you edit files locally on your machine, make sure your text editor is configured properly to insert spaces instead of tab characters when you press the Tab key. For a complete walkthrough on how to set this up correctly, check out our dedicated <a href="../../T1Ds Home Assistant/notepad++.md" target="_blank" rel="noopener noreferrer">Notepad++ Setup Guide</a>.
+
+
+
+* 👉 Notepad++ Setup Guide [Check out our note++  Guide](notepad++.md){ target="_blank" }
+
+ check out our dedicated :material-note-text: [note++ Guide](notepad++.md){ target="_blank" } 
 
 #### Test Before You Restart
 You can verify if your code is correctly indented *before* restarting your server by going to **Developer Tools > YAML** in Home Assistant and clicking **Check Configuration**.
@@ -350,7 +356,33 @@ If you click "Perform Action" but nothing happens or you don't hear anything, ch
 
 ******************************************
 
+***********************************************
+Hiding Pages from the Menu!
 
+add in your t1d_tts_setup_guide.md
+check out our dedicated :material-note-text: [note++ Guide](notepad++.md){ target="_blank" } 
+*****************
+
+Add to your Mkdocs.yaml file!
+- 'Notepad++ Guide': 'user-guide/T1Ds Home Assistant/notepad++.md'
+********************
+
+with these links in your notepad++.md file you made! so it as a link back!
+
+[← Back to T1D Home Assistant Setup Guide](t1d_tts_setup_guide.md){ .md-button }
+
+[← Back to T1D Home Assistant Setup Guide](t1d_tts_setup_guide.md)
+
+***********
+you can also do it this way but I did not like the not_in_nav showing up!
+
+- Hidden Pages:
+    - not_in_nav:
+        - 'notepad++': 'user-guide/T1Ds Home Assistant/notepad++.md'
+
+
+
+*************************************
   Facebook debugg
 ********************************
 

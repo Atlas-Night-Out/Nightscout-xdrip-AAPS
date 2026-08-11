@@ -90,7 +90,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
-  - stylesheets/extra.css
+  # - stylesheets/extra.css
+  - css/stylesheets/custom-theme.css
+  
   
 
 nav:
@@ -131,6 +133,10 @@ nav:
     - 'My Jade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
     - 'T1DDiabetesCard': 'user-guide/T1Ds Home Assistant/T1DDiabetesCard.md'
     - 'Setting Up T1D Glucose Text-to-Speech (TTS) Announcements': 'user-guide/T1Ds Home Assistant/t1d_tts_setup_guide.md'
+
+- 'Notepad++ Guide': 'user-guide/T1Ds Home Assistant/notepad++.md'
+
+
     
 -   Freestyle Libre : 
     - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'    

@@ -140,6 +140,43 @@ docs made by D.Galloway 2019- 2026-->
 <!--  
   ******************************************************************************************************************
   
+  UK Flag
+*********************
+
+  <img src="../../../assets/images/Flag_of_the_United_Kingdom_(3-5).svg" alt="UK Flag" width="24">
+
+
+<img src="../../../assets/images/Flag_of_the_United_Kingdom_(3-5).svg" alt="UK Flag" style="width: 24px; height: auto;" />
+
+******************************************
+
+***********************************************
+Hiding Pages from the Menu!
+
+add in your t1d_tts_setup_guide.md
+check out our dedicated :material-note-text: [note++ Guide](notepad++.md){ target="_blank" } 
+*****************
+
+Add to your Mkdocs.yaml file!
+- 'Notepad++ Guide': 'user-guide/T1Ds Home Assistant/notepad++.md'
+********************
+
+with these links in your notepad++.md file you made! so it as a link back!
+
+[← Back to T1D Home Assistant Setup Guide](t1d_tts_setup_guide.md){ .md-button }
+
+[← Back to T1D Home Assistant Setup Guide](t1d_tts_setup_guide.md)
+
+***********
+you can also do it this way but I did not like the not_in_nav showing up!
+
+- Hidden Pages:
+    - not_in_nav:
+        - 'notepad++': 'user-guide/T1Ds Home Assistant/notepad++.md'
+
+
+
+*************************************
   Facebook debugg
 ********************************
 
