@@ -1,7 +1,7 @@
 ---
 meta:
   - property: og:image
-    content: "https://github.com/user-attachments/assets/e6c37552-5970-4f8e-a275-d4181575073f"
+    content: "https://github.com/user-attachments/assets/e3471e96-c31e-4c09-aca2-d553cd4ceacd"
 ---
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2026-->
@@ -20,6 +20,7 @@ docs made by D.Galloway 2019- 2026-->
 
 <h3 style="text-align: center;"><strong>📱 Setting Up T1D Glucose Text-to-Speech (TTS) Announcements)</strong></h3>
 </div>
+
 
 
 This setup guide walks you through configuring Home Assistant to read your Type 1 Diabetes (T1D) blood glucose levels and live trend directions out loud using text-to-speech (TTS) announcements.<br>
@@ -224,34 +225,73 @@ Every phone running the Home Assistant Companion App has a unique notification t
 
    5. Review the dropdown list to locate your specific phone model (for example, `notify.mobile_app_sm_s928b`). Note down or copy this exact entity name.
 
-   <img src="Images/2026-08-03_18-57-12.png" width="800" alt="Entity Name" title="Entity Name">
+   
+   <center>
+  <img width="800" height="auto" border="0" align="center" src="https://github.com/user-attachments/assets/cb356146-27bd-499c-abb2-e5699b3d9390" title="Mobile Notify Entity Name" />
+</center>
 
    6. You now know your Mobile notification is ``` notify.mobile_app_sm_s928b```
 
-   7. If you want to test to see if you can get a readout Select Action.
+   7. Go to Developer Tools (found in the sidebar of Home Assistant) and select the Actions tab (previously called Services).
 
-   8. Then in  the message part  add ```TTS```
+   8. Under Action, search for and select notify.mobile_app_sm_s928b you just founnd.
 
-   9. Add this into your Data Section.
+   9. Then in  the message part  add ```TTS```
 
-```YAML 
+   10. Add your configuration payload into the **Data** section:
+
+```yaml title="test_s24_tts" 
 channel: alarm_stream_max
 ttl: 0
 priority: high
 tts_text: "This is a test of the text to speech on the S24"
 ```
 <br>
-<img src="Images/2026-08-03_19-03-53.png" width="800" alt="Data" title="Action Data section">
+11. Click Perform Action
+12. You should now hear the message spoken aloud from your mobile device if it is working correctly.
 <br>
+<div style="text-align: center;" markdown="1">
+  <img width="800" src="https://github.com/user-attachments/assets/497249c6-3924-4db2-828b-d36fea1812a7" alt="Action Data section" />
+</div>
   
+
+
 ---
 
+### 🛠️ Troubleshooting
 
+If you click "Perform Action" but nothing happens or you don't hear anything, check the following:
 
+* **Phone Volume & Do Not Disturb:** Ensure your phone isn't on silent, media volume is turned up, and "Do Not Disturb" isn't blocking high-priority notification streams.
+* **App Notification Settings:** Check your phone's system settings (**Settings > Apps > Home Assistant > Notifications**) and verify that notifications are fully allowed.
+* **Battery Optimization:** On Android devices (like the S24), aggressive battery saving can put the Home Assistant companion app to sleep. Set the app's battery usage to **Unrestricted** or **Not optimized**.
+* **Test a Basic Message First:** Remove the custom `data` YAML block entirely and try sending just a plain text message (`message: "Hello"`) to see if basic notifications are getting through to your device.
 
+---
 
+<br>
 
+## 🛠️ Step 3: Create the Script in Home Assistant
 
+ 1. Go to **Settings** > **Automations & Scenes** > **Scripts**.
+
+ 2. Click **Add Script** in the bottom right corner, then select **Create Script**.
+
+<center>
+  <img width="800" height="auto" border="0" align="center" src="https://github.com/user-attachments/assets/9ad1d988-c32a-4471-8059-b615c8de91aa" title="Create New HA script" />
+</center>
+
+ 3. Click the three vertical dots in the top right corner and choose **Edit in YAML**.
+
+  
+
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/b29a4ed5-241d-4771-8ae9-11bbb5bb0595" title="Edit in YAML"/></a><br><br>
+   
+4. Clear the existing code and paste the script template provided below.
+
+---
+
+## ⚙️ Step 4: Configure and Save the Script
 
 
 
@@ -278,6 +318,17 @@ tts_text: "This is a test of the text to speech on the S24"
   <!--  
   ******************************************************************************************************************
   
+  UK Flag
+*********************
+
+  <img src="../../../assets/images/Flag_of_the_United_Kingdom_(3-5).svg" alt="UK Flag" width="24">
+
+
+<img src="../../../assets/images/Flag_of_the_United_Kingdom_(3-5).svg" alt="UK Flag" style="width: 24px; height: auto;" />
+
+******************************************
+
+
   Facebook debugg
 ********************************
 

@@ -15,7 +15,7 @@ theme:
       - navigation.tabs.sticky
       - navigation.top
       - navigation.sections        # <--- Adds section styling to the left sidebar
-      - navigation.expand          # <--- Auto-expands the tree structure on the left
+      # - navigation.expand          # <--- Auto-expands the tree structure on the left
       - content.code.file
       - content.code.copy
 
@@ -84,7 +84,6 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details 
-
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
