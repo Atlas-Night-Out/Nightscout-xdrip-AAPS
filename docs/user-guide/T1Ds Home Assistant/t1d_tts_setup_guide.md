@@ -109,6 +109,28 @@ making sure to indent it correctly before you restart HA.
 7. You can test if the code is correctly  indented, before you restart by going to the Developer tools YAML and check configuration.
 
 <img src="../../../assets/Images/2026-08-05_14-59-15.png" width="700" alt="Developer tools" title="Developer tools">
+<br>
+
+---
+
+### Adding Your REST Code to Home Assistant
+
+When adding this code into your Home Assistant `configuration.yaml` file, precision is key. 
+
+* **YAML Indentation Matters:** YAML relies strictly on spaces (not tabs!). If your spaces are off, Home Assistant will fail to boot. 
+* **Editor Tip:** If you edit files locally on your machine, make sure your text editor is configured properly to insert spaces instead of tab characters when you press the Tab key. For a complete walkthrough on how to set this up correctly, check out our dedicated <a href="../AndroidAPS/notepad++.md" target="_blank" rel="noopener noreferrer">Notepad++ Setup Guide</a>.
+
+#### Test Before You Restart
+You can verify if your code is correctly indented *before* restarting your server by going to **Developer Tools > YAML** in Home Assistant and clicking **Check Configuration**.
+
+<center>
+  <img src="../../../assets/Images/2026-08-05_14-59-15.png" width="700" alt="Developer tools" title="Developer tools">
+</center>
+
+#### Your Configuration Code Block
+Add the following code block to your `configuration.yaml` file using your file editor:
+
+
 
 8. To add your Rest code to your Home Assistant configuration.yaml file by using the File editor.<br>
 
