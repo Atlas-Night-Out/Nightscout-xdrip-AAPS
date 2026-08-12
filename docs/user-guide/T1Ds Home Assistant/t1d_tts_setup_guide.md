@@ -346,11 +346,10 @@ sequence:
         channel: alarm_stream_max
         ttl: 0
         priority: high
-    action: notify.mobile_app_sm_s928bf
+    action: notify.mobile_app_sm_s928b
 mode: single
 icon: mdi:waveform
-description: "Announces Dexcom blood glucose and trend via TTS onto your mobile phone."
-
+description: Announces Dexcom blood glucose and trend via TTS onto your mobile phone.
 ```
 rdgdfsfsfaag
 rfrrgrredghdfdfh
