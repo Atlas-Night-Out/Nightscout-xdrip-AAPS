@@ -351,8 +351,7 @@ mode: single
 icon: mdi:waveform
 description: Announces Dexcom blood glucose and trend via TTS onto your mobile phone.
 ```
-rdgdfsfsfaag
-rfrrgrredghdfdfh
+
 
 
 

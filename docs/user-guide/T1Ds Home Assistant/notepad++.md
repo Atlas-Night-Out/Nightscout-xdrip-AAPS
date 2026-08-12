@@ -79,15 +79,18 @@ If you prefer a simpler workflow without altering advanced preferences, you can 
 
 If you need a quick visual guide on managing code files and text editor setups, check out the video tutorial below:
 
-<a href="https://www.youtube.com/watch?v=DsLphWTte-U&t=41s" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fb3ad56d-2792-4893-a1e4-62e00fe91801" title="Home Assistant 101 Terminology You Need to know"/></a>
+<a href="https://youtu.be/DsLphWTte-U" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/554ad8ac-4b31-4534-a849-b8aae4f84b5a" title="Resinchem Home Assistant 101 Terminology You Need to know"/></a>
 
 
+<a href="https://youtu.be/DsLphWTte-U"><img scr="thumbnail.jpg"></a>
 
 If you need a great video guide on Home Assistant to setup and configuration from scratch, check out the tutorials on the [Resin Chem Tech YouTube Channel](https://www.youtube.com/@ResinChemTech/videos).
 He has a lot more videos but Im trying to point you towards the ones that help me out!<br>
 
 The other one is called: **DIY Standalone LED System V2: No external systems required!** which Id of like to have tried myslef, but I went for the Digquad instead, but be intresting to know if anyone as tried it ResinChems way too. 
+
+<a href="https://youtu.be/DsLphWTte-U"><img scr="ResinchemHome Assistant 101 Terminology You Need to know.png"></a>
 
 
 
@@ -317,7 +320,16 @@ Video with image but this if a false Video!!!! And just and image with a link!
 <a href="https://youtu.be/FZvuVlHOh8w" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f44c325b-d1d0-483a-813b-bc45813f846a" title="Alexa - Jade - Skills & Games"/></a>
 
+********************************************
+Video Link making your own player with pngtree--video player line black icon
+*********************************************************************************
 
+<a href="https://youtu.be/DsLphWTte-U" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/554ad8ac-4b31-4534-a849-b8aae4f84b5a" title="Resinchem Home Assistant 101 Terminology You Need to know"/></a>
+
+
+<a href="https://www.youtube.com/watch?v=DsLphWTte-U&t=41s" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fb3ad56d-2792-4893-a1e4-62e00fe91801" title="Home Assistant 101 Terminology You Need to know"/></a>
 
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
