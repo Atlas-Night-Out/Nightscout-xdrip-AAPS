@@ -78,13 +78,8 @@ If you prefer a simpler workflow without altering advanced preferences, you can 
 ## 3. Video Walkthrough
 
 If you need a quick visual guide on managing code files and text editor setups, check out the video tutorial below:
-
 <a href="https://youtu.be/DsLphWTte-U" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/554ad8ac-4b31-4534-a849-b8aae4f84b5a" title="Resinchem Home Assistant 101 Terminology You Need to know"/></a>
-
-
-<a href="https://youtu.be/DsLphWTte-U"><img scr="thumbnail.jpg"></a>
-
 If you need a great video guide on Home Assistant to setup and configuration from scratch, check out the tutorials on the [Resin Chem Tech YouTube Channel](https://www.youtube.com/@ResinChemTech/videos).
 He has a lot more videos but Im trying to point you towards the ones that help me out!<br>
 
