@@ -351,15 +351,13 @@ mode: single
 icon: mdi:waveform
 description: "Announces Dexcom blood glucose and trend via TTS onto your mobile phone."
 
-```rdgdfsfsfaag
+```
+rdgdfsfsfaag
 rfrrgrredghdfdfh
 
 
-dd
 
 
-
----
 
 
 
@@ -384,8 +382,7 @@ dd
   </div>
 
 
-
-  <!--  
+<!--  
   ******************************************************************************************************************
   
   UK Flag
@@ -703,4 +700,3 @@ old way
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 
 -->
-
