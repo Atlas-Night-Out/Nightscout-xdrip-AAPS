@@ -118,7 +118,7 @@ making sure to indent it correctly before you restart HA.
 When adding this code into your Home Assistant `configuration.yaml` file, precision is key. 
 
 * **YAML Indentation Matters:** YAML relies strictly on spaces (not tabs!). If your spaces are off, Home Assistant will fail to boot. 
-* **Editor Tip:** If you edit files locally on your machine, make sure your text editor is configured properly to insert spaces instead of tab characters when you press the Tab key. For a complete walkthrough on how to set this up correctly, check out our dedicated <a href="../../T1Ds Home Assistant/notepad++.md" target="_blank" rel="noopener noreferrer">Notepad++ Setup Guide</a>.
+* **Editor Tip:** If you edit files locally on your machine, make sure your text editor is configured properly to insert spaces instead of tab characters when you press the Tab key. For a complete walkthrough on how to set this up correctly,  check out our dedicated :material-note-text: [note++ Guide](notepad++.md){ target="_blank" }.
 
 
 
@@ -307,19 +307,61 @@ If you click "Perform Action" but nothing happens or you don't hear anything, ch
 
 <center>
   <img width="800" height="auto" border="0" align="center" src="https://github.com/user-attachments/assets/9ad1d988-c32a-4471-8059-b615c8de91aa" title="Create New HA script" />
-</center>
+</center><br>
 
- 3. Click the three vertical dots in the top right corner and choose **Edit in YAML**.
+3. Click the three vertical dots in the top right corner and choose **Edit in YAML**.
 
   
 
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/b29a4ed5-241d-4771-8ae9-11bbb5bb0595" title="Edit in YAML"/></a><br><br>
    
 4. Clear the existing code and paste the script template provided below.
+<br>
+
+
+Make sure to replace `notify.mobile_app_sm_s928b` at the bottom of the code with your own mobile entity name found in Step 1:
+Where action: is located in the script. You will also notice I have used Dexcom script here, to show you two example scripts as the script after is a Nightacout script.
+
+Dexcom Script:
+```yaml
+alias: S24 Announce T1D Glucose Trend From App Dexcom
+sequence:
+  - delay: "00:00:01"
+  - data:
+      message: TTS
+      data:
+        tts_text: >-
+          {% set bg = states('sensor.dexcom_g6_clean') | float(0) %}  {% set
+          raw_trend = states('sensor.dave247_glucose_trend') %}  {% set
+          trend_map = {
+            'Flat': 'steady',
+            'SingleUp': 'rising',
+            'DoubleUp': 'rising quickly',
+            'SingleDown': 'falling',
+            'DoubleDown': 'falling quickly',
+            'FortyFiveUp': 'rising slightly',
+            'FortyFiveDown': 'falling slightly'
+          } %}  {% set trend = trend_map.get(raw_trend, raw_trend) %}  Blood {{
+          bg }} millimoles, and it is {{ trend }}.
+        channel: alarm_stream_max
+        ttl: 0
+        priority: high
+    action: notify.mobile_app_sm_s928bf
+mode: single
+icon: mdi:waveform
+description: "Announces Dexcom blood glucose and trend via TTS onto your mobile phone."
+
+```rdgdfsfsfaag
+rfrrgrredghdfdfh
+
+
+dd
+
+
 
 ---
 
-## ⚙️ Step 4: Configure and Save the Script
+
 
 
 

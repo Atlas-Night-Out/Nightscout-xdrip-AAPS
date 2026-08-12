@@ -1,4 +1,4 @@
-
+<br>
 [← Back to T1D Home Assistant Setup Guide](t1d_tts_setup_guide.md){ .md-button }
 
 # Configuring Notepad++ for Home Assistant YAML
@@ -11,16 +11,83 @@ In Home Assistant, **literal Tab characters are forbidden**—it only accepts sp
 
 ## 🛠️ How to Make Notepad++ Home Assistant Friendly
 
-To configure Notepad++ so it automatically converts your tabs into the correct 2-space YAML format, follow these steps:
+To configure Notepad++ so it automatically converts your tabs into the correct 2-space YAML format, follow these steps:<br>
 
 1. Open Notepad++ and go to **Settings > Preferences**.
+
 2. Click on **Indentation** in the sidebar menu.
+
 3. In the language dropdown list at the top, select **YAML** (making sure your YAML settings are targeted).
+
 4. Under the replacement options, select **Space character(s)** (this acts as "Replace by space").
+
 5. Change the **Indent size** from `4` to `2`.
+
 6. Ensure that **Tab character** is **NOT** selected.
 
 Once you apply these settings, pressing the Tab key in Notepad++ will automatically type **2 real spaces** instead of a tab character, keeping your code cleanly aligned and ready for Home Assistant!
+
+---
+
+
+---
+
+## 🛠️ How to Make Notepad++ Home Assistant Friendly
+
+Home Assistant strictly requires **spaces instead of tab characters** for indentation. To make sure Notepad++ handles pasted text and indentation safely:
+
+1. Open Notepad++ and go to **Settings** > **Preferences**.
+
+2. Select **Indentation** from the left menu.
+
+3. Select **yaml** from the language list.
+
+4. Ensure **Space character(s)** is selected (instead of Tab character).
+
+5. Set your **Indent size** (2 or 4 spaces are both supported).
+
+6. Click **Close** to save your preferences.
+
+---
+
+## 2. Saving Your File Correctly
+
+When saving your code snippet:
+* Do not save it as a standard `.txt` file, as Home Assistant won't read it.
+* Make sure to save the file extension explicitly as **`.yaml`** (for example: `configuration.yaml` or `automations.yaml`).
+<br>
+
+---
+
+---
+
+## Alternative: Using a Standard Text File & Quick Copy
+
+If you prefer a simpler workflow without altering advanced preferences, you can use a standard text file and copy directly into Home Assistant:
+
+1. Create or open a standard text file in Notepad++.
+2. Paste or write your YAML code. **Crucial rule:** Avoid using the **Tab key** for spacing; ensure you use spaces instead.
+3. Press **`Ctrl + A`** to select all, then **`Ctrl + C`** to copy the code.
+4. Go to your Home Assistant UI editor, open the YAML editor view, and press **`Ctrl + V`** to paste it right in.
+
+> **Note:** Even if the file remains a `.txt` format on your computer, Home Assistant will accept the code successfully as long as your spacing/indentation is clean and free of hidden tab characters.
+
+
+---
+
+## 3. Video Walkthrough
+
+If you need a quick visual guide on managing code files and text editor setups, check out the video tutorial below:
+
+<a href="https://www.youtube.com/watch?v=DsLphWTte-U&t=41s" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fb3ad56d-2792-4893-a1e4-62e00fe91801" title="Home Assistant 101 Terminology You Need to know"/></a>
+
+
+
+If you need a great video guide on Home Assistant to setup and configuration from scratch, check out the tutorials on the [Resin Chem Tech YouTube Channel](https://www.youtube.com/@ResinChemTech/videos).
+He has a lot more videos but Im trying to point you towards the ones that help me out!<br>
+
+The other one is called: **DIY Standalone LED System V2: No external systems required!** which Id of like to have tried myslef, but I went for the Digquad instead, but be intresting to know if anyone as tried it ResinChems way too. 
 
 
 
